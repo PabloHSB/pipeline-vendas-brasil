@@ -16,7 +16,7 @@ A proposta é explorar etapas de Engenharia de Dados, como extração, transform
 
 ## Arquitetura proposta
 
-CSV → Python/Pandas → SQLite → SQL e análise de dados
+CSV → Python/Pandas → PostgreSQL → SQL e análise de dados
 
 O diagrama detalhado da arquitetura será disponibilizado neste repositório.
 
@@ -25,7 +25,7 @@ O diagrama detalhado da arquitetura será disponibilizado neste repositório.
 - Python
 - Pandas
 - SQL
-- SQLite
+- PostgreSQL
 - Git e GitHub
 - diagrams.net
 
