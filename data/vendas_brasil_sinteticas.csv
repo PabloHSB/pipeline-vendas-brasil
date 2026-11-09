@@ -1,0 +1,1008 @@
+﻿pedido_id,data_pedido,cliente_id,uf,regiao,produto_id,produto,categoria,quantidade,preco_unitario,canal_venda,forma_pagamento,status_pedido,prazo_entrega_dias
+PED00001,2025-01-13,C0378,ES,Sudeste,P011,Caderno universitário,Papelaria,2,23.65,Site,Boleto,Entregue,5.0
+PED00002,2025-10-30,C0120,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Loja física,Boleto,Entregue,7.0
+PED00003,2025-11-29,C0302,RS,Sul,P001,Cadeira de escritório,Móveis,2,499.9,Marketplace,Cartão de crédito,Entregue,15.0
+PED00004,2025-06-24,C0048,MT,Centro-Oeste,P003,Luminária de mesa,Casa,1,123.41,Marketplace,Cartão de crédito,Entregue,4.0
+PED00005,2025-11-06,C0275,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Site,Pix,Cancelado,
+PED00006,2025-11-18,C0361,CE,Nordeste,P002,Mesa de escritório,Móveis,2,899.9,Site,Cartão de crédito,Em transporte,7.0
+PED00007,2025-05-29,C0143,BA,Nordeste,P011,Caderno universitário,Papelaria,5,23.65,Marketplace,Boleto,Entregue,13.0
+PED00008,2025-07-09,C0274,SC,Sul,P006,Teclado sem fio,Eletrônicos,1,149.9,Loja física,Cartão de crédito,Entregue,6.0
+PED00009,2025-07-14,C0394,PA,Norte,P003,Luminária de mesa,Casa,1,136.4,Site,Cartão de crédito,Entregue,11.0
+PED00010,2025-07-25,C0109,PB,Nordeste,P001,Cadeira de escritório,Móveis,1,474.9,Loja física,Pix,Em transporte,11.0
+PED00011,2025-03-15,C0135,PA,Norte,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Boleto,Em transporte,18.0
+PED00012,2025-07-05,C0047,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,170.91,Site,Cartão de crédito,Em transporte,16.0
+PED00013,2025-12-15,C0196,SC,Sul,P003,Luminária de mesa,Casa,1,116.91,Loja física,Pix,Cancelado,
+PED00014,2025-10-11,C0385,PE,Nordeste,P009,Suporte para monitor,Acessórios,3,107.91,Marketplace,Boleto,Entregue,18.0
+PED00015,2025-05-31,C0257,ES,Sudeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Site,Boleto,Entregue,9.0
+PED00016,2025-11-24,C0391,CE,Nordeste,P002,Mesa de escritório,Móveis,1,854.9,Site,Boleto,Entregue,12.0
+PED00017,2025-11-03,C0414,SP,Sudeste,P009,Suporte para monitor,Acessórios,1,107.91,Marketplace,Cartão de crédito,Entregue,12.0
+PED00018,2025-10-18,C0418,BA,Nordeste,P001,Cadeira de escritório,Móveis,4,449.91,Site,Boleto,Cancelado,
+PED00019,2025-12-04,C0271,PR,Sul,P003,Luminária de mesa,Casa,1,136.4,Loja física,Pix,Entregue,9.0
+PED00020,2025-06-09,C0265,RS,Sul,P004,Garrafa térmica,Casa,1,79.9,Marketplace,Cartão de crédito,Cancelado,
+PED00021,2025-02-02,C0302,BA,Nordeste,P004,Garrafa térmica,Casa,1,83.9,Site,Cartão de crédito,Em transporte,8.0
+PED00022,2025-04-28,C0264,RJ,Sudeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Pix,Entregue,3.0
+PED00023,2025-04-20,C0125,AM,Norte,P011,Caderno universitário,Papelaria,1,26.14,Marketplace,Pix,Em transporte,16.0
+PED00024,2025-02-19,C0211,ES,Sudeste,P004,Garrafa térmica,Casa,2,79.9,Marketplace,Boleto,Cancelado,
+PED00025,2025-02-01,C0099,ES,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Boleto,Entregue,8.0
+PED00026,2025-08-05,C0227,PR,Sul,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Cartão de crédito,Entregue,3.0
+PED00027,2025-02-17,C0249,SP,Sudeste,P001,Cadeira de escritório,Móveis,4,474.9,Marketplace,Cartão de crédito,Entregue,14.0
+PED00028,2025-03-26,C0147,RJ,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Boleto,Entregue,15.0
+PED00029,2025-03-21,C0032,AM,Norte,P012,Webcam HD,Eletrônicos,1,218.41,Loja física,Pix,Entregue,18.0
+PED00030,2025-10-27,C0261,RJ,Sudeste,P001,Cadeira de escritório,Móveis,1,524.89,Site,Cartão de crédito,Entregue,2.0
+PED00031,2025-12-12,C0297,MG,Sudeste,P002,Mesa de escritório,Móveis,3,899.9,Loja física,Cartão de crédito,Entregue,8.0
+PED00032,2025-08-03,C0134,MG,Sudeste,P010,Organizador de mesa,Papelaria,2,41.9,Site,Boleto,Em transporte,11.0
+PED00033,2025-05-03,C0162,PB,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Site,Cartão de crédito,Entregue,15.0
+PED00034,2025-02-07,C0179,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,1,94.4,Site,Cartão de crédito,Entregue,5.0
+PED00035,2025-03-22,C0005,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,1,157.4,Loja física,Boleto,Entregue,17.0
+PED00036,2025-03-10,C0140,ES,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Boleto,Em transporte,5.0
+PED00037,2025-04-15,C0129,PB,Nordeste,P004,Garrafa térmica,Casa,2,79.9,Site,Cartão de crédito,Em transporte,16.0
+PED00038,2025-05-22,C0083,MT,Centro-Oeste,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Pix,Entregue,9.0
+PED00039,2025-10-15,C0019,MT,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,107.91,Marketplace,Boleto,Entregue,18.0
+PED00040,2025-08-09,C0184,PR,Sul,P009,Suporte para monitor,Acessórios,1,119.9,Site,Boleto,Entregue,2.0
+PED00041,2025-07-01,C0122,ES,Sudeste,P004,Garrafa térmica,Casa,2,79.9,Site,Cartão de crédito,Em transporte,5.0
+PED00042,2025-04-02,C0411,SP,Sudeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Boleto,Cancelado,
+PED00043,2025-03-23,C0020,PE,Nordeste,P004,Garrafa térmica,Casa,2,71.91,Marketplace,Cartão de crédito,Cancelado,
+PED00044,2025-06-29,C0338,PA,Norte,P004,Garrafa térmica,Casa,1,75.91,Site,Pix,Entregue,1.0
+PED00045,2025-02-05,C0205,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,4,149.9,Loja física,Boleto,Entregue,17.0
+PED00046,2025-03-01,C0020,SP,Sudeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Site,Boleto,Entregue,9.0
+PED00047,2025-06-10,C0296,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,188.9,Site,Pix,Entregue,13.0
+PED00048,2025-01-01,C0221,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,524.89,Site,Boleto,Entregue,12.0
+PED00049,2025-12-06,C0342,PB,Nordeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Marketplace,Pix,Em transporte,10.0
+PED00050,2025-10-11,C0347,CE,Nordeste,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Cartão de crédito,Cancelado,
+PED00051,2025-07-27,C0108,CE,Nordeste,P010,Organizador de mesa,Papelaria,1,35.91,Marketplace,Boleto,Entregue,10.0
+PED00052,2025-08-27,C0407,PB,Nordeste,P010,Organizador de mesa,Papelaria,1,37.9,Loja física,Cartão de crédito,Em transporte,16.0
+PED00053,2025-05-26,C0420,MG,Sudeste,P011,Caderno universitário,Papelaria,1,26.14,Site,Boleto,Entregue,3.0
+PED00054,2025-04-12,C0313,BA,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Site,Pix,Entregue,16.0
+PED00055,2025-12-23,C0336,RS,Sul,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Cartão de crédito,Entregue,5.0
+PED00056,2025-04-23,C0026,MT,Centro-Oeste,P002,Mesa de escritório,Móveis,1,944.89,Loja física,Cartão de crédito,Cancelado,
+PED00057,2025-03-10,C0387,PA,Norte,P002,Mesa de escritório,Móveis,3,944.89,Marketplace,Boleto,Em transporte,11.0
+PED00058,2025-10-08,C0231,MT,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,218.41,Marketplace,Cartão de crédito,Cancelado,
+PED00059,2025-09-24,C0040,PE,Nordeste,P011,Caderno universitário,Papelaria,1,23.65,Loja física,Pix,Entregue,15.0
+PED00060,2025-06-21,C0078,PE,Nordeste,P004,Garrafa térmica,Casa,1,83.9,Site,Pix,Entregue,5.0
+PED00061,2025-12-28,C0170,PR,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Cancelado,
+PED00062,2025-04-16,C0392,RJ,Sudeste,P007,Mochila para notebook,Acessórios,3,179.9,Loja física,Pix,Em transporte,1.0
+PED00063,2025-06-30,C0276,SP,Sudeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Boleto,Cancelado,
+PED00064,2025-09-07,C0015,BA,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Marketplace,Pix,Cancelado,
+PED00065,2025-03-26,C0014,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,3,23.65,Marketplace,Boleto,Em transporte,18.0
+PED00066,2025-02-12,C0094,,Sudeste,P010,Organizador de mesa,Papelaria,2,37.9,Site,Pix,Cancelado,
+PED00067,2025-04-19,C0143,PB,Nordeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Pix,Cancelado,
+PED00068,2025-01-10,C0333,AM,Norte,P002,Mesa de escritório,Móveis,2,809.91,Site,Boleto,Entregue,8.0
+PED00069,2025-05-07,C0123,SP,Sudeste,P001,Cadeira de escritório,Móveis,1,449.91,Site,Pix,Em transporte,5.0
+PED00070,2025-10-16,C0086,ES,Sudeste,P011,Caderno universitário,Papelaria,4,24.9,Loja física,Boleto,Entregue,12.0
+PED00071,2025-03-25,C0160,ES,Sudeste,P012,Webcam HD,Eletrônicos,4,206.91,Loja física,Boleto,Em transporte,1.0
+PED00072,2025-04-12,C0351,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Cartão de crédito,Entregue,10.0
+PED00073,2025-06-27,C0332,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Cartão de crédito,Entregue,17.0
+PED00074,2025-02-24,C0363,AM,Norte,P007,Mochila para notebook,Acessórios,1,179.9,Site,Pix,Cancelado,
+PED00075,2025-11-12,C0239,PE,Nordeste,P003,Luminária de mesa,Casa,3,136.4,Marketplace,Boleto,Cancelado,
+PED00076,2025-06-15,C0125,PE,Nordeste,P010,Organizador de mesa,Papelaria,3,35.91,Marketplace,Boleto,Entregue,15.0
+PED00077,2025-06-22,C0109,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Pix,Entregue,16.0
+PED00078,2025-11-02,C0265,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Site,Cartão de crédito,Em transporte,1.0
+PED00079,2025-09-08,C0331,MT,Centro-Oeste,P004,Garrafa térmica,Casa,2,75.91,Loja física,Pix,Cancelado,
+PED00080,2025-02-17,C0340,SP,Sudeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Pix,Entregue,10.0
+PED00081,2025-08-06,C0360,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,5,94.4,Marketplace,Pix,Entregue,12.0
+PED00082,2025-04-29,C0381,PE,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,189.91,Loja física,Boleto,Entregue,4.0
+PED00083,2025-04-21,C0306,RS,Sul,P003,Luminária de mesa,Casa,2,129.9,Marketplace,Cartão de crédito,Em transporte,17.0
+PED00084,2025-04-27,C0065,CE,Nordeste,P004,Garrafa térmica,Casa,1,79.9,Marketplace,Cartão de crédito,Entregue,18.0
+PED00085,2025-12-24,C0294,CE,Nordeste,P001,Cadeira de escritório,Móveis,4,499.9,Marketplace,Pix,Entregue,1.0
+PED00086,2025-06-24,C0059,PA,Norte,P008,Mouse sem fio,Eletrônicos,1,80.91,Site,Pix,Entregue,16.0
+PED00087,2025-10-23,C0416,MG,Sudeste,P008,Mouse sem fio,Eletrônicos,2,80.91,Loja física,Pix,Entregue,5.0
+PED00088,2025-03-02,C0398,BA,Nordeste,P002,Mesa de escritório,Móveis,2,899.9,Loja física,Pix,Em transporte,8.0
+PED00089,2025-06-02,C0313,PA,Norte,P008,Mouse sem fio,Eletrônicos,3,89.9,Loja física,Cartão de crédito,Entregue,2.0
+PED00090,2025-05-16,C0283,RS,Sul,P004,Garrafa térmica,Casa,2,75.91,Site,Cartão de crédito,Entregue,6.0
+PED00091,2025-08-19,C0119,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,499.9,Marketplace,Boleto,Entregue,2.0
+PED00092,2025-02-06,C0218,PA,Norte,P005,Fone Bluetooth,Eletrônicos,2,199.9,Site,Boleto,Em transporte,7.0
+PED00093,2025-05-17,C0406,PR,Sul,P004,Garrafa térmica,Casa,3,71.91,Marketplace,Boleto,Entregue,6.0
+PED00094,2025-08-13,C0140,CE,Nordeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Boleto,Cancelado,
+PED00095,2025-02-11,C0014,PA,Norte,P008,Mouse sem fio,Eletrônicos,2,89.9,Site,Cartão de crédito,Entregue,9.0
+PED00096,2025-12-11,C0241,SP,Sudeste,P011,Caderno universitário,Papelaria,0,26.14,Loja física,Boleto,Entregue,6.0
+PED00097,2025-04-03,C0047,PE,Nordeste,P008,Mouse sem fio,Eletrônicos,5,89.9,Marketplace,Pix,Cancelado,
+PED00098,2025-06-14,C0356,PB,Nordeste,P007,Mochila para notebook,Acessórios,2,170.91,Marketplace,Pix,Entregue,14.0
+PED00099,2025-10-09,C0166,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,1,22.41,Site,Pix,Entregue,9.0
+PED00100,2025-12-03,C0028,SP,Sudeste,P009,Suporte para monitor,Acessórios,3,119.9,Site,Boleto,Cancelado,
+PED00101,2025-11-17,C0282,AM,Norte,P006,Teclado sem fio,Eletrônicos,1,134.91,Site,Pix,Entregue,9.0
+PED00102,2025-03-04,C0160,AM,Norte,P008,Mouse sem fio,Eletrônicos,1,94.4,Loja física,Cartão de crédito,Entregue,6.0
+PED00103,2025-02-17,C0061,MT,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,107.91,Loja física,Cartão de crédito,Cancelado,
+PED00104,2025-09-18,C0242,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Site,Pix,Cancelado,
+PED00105,2025-07-16,C0036,PR,Sul,P009,Suporte para monitor,Acessórios,1,125.9,Marketplace,Pix,Em transporte,5.0
+PED00106,2025-01-02,C0077,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Boleto,Em transporte,16.0
+PED00107,2025-06-20,C0234,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,2,-94.4,Marketplace,Cartão de crédito,Cancelado,
+PED00108,2025-10-20,C0382,BA,Nordeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Entregue,11.0
+PED00109,2025-12-06,C0019,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,2,170.91,Site,Boleto,Cancelado,
+PED00110,2025-02-21,C0234,PB,Nordeste,P010,Organizador de mesa,Papelaria,3,39.9,Site,Boleto,Entregue,17.0
+PED00111,2025-12-02,C0401,MT,Centro-Oeste,P003,Luminária de mesa,Casa,4,116.91,Marketplace,Pix,Cancelado,
+PED00112,2025-11-29,C0163,,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Boleto,Em transporte,13.0
+PED00113,2025-11-13,C0223,RJ,Sudeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Boleto,Entregue,3.0
+PED00114,2025-08-16,C0167,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Site,Pix,Entregue,2.0
+PED00115,2025-08-09,C0290,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,157.4,Loja física,Cartão de crédito,Cancelado,
+PED00116,2025-02-10,C0255,SC,Sul,P003,Luminária de mesa,Casa,2,129.9,Loja física,Cartão de crédito,Em transporte,8.0
+PED00117,2025-11-23,C0148,PA,Norte,P004,Garrafa térmica,Casa,1,79.9,Loja física,Boleto,Entregue,15.0
+PED00118,2025-08-15,C0354,MG,Sudeste,P003,Luminária de mesa,Casa,4,136.4,Marketplace,Pix,Entregue,14.0
+PED00119,2025-07-16,C0293,RS,Sul,P005,Fone Bluetooth,Eletrônicos,3,179.91,Marketplace,Boleto,Entregue,13.0
+PED00120,2025-01-12,C0290,CE,Nordeste,P005,Fone Bluetooth,Eletrônicos,4,199.9,Loja física,Boleto,Entregue,1.0
+PED00121,2025-05-27,C0113,AM,Norte,P001,Cadeira de escritório,Móveis,2,474.9,Loja física,Cartão de crédito,Em transporte,12.0
+PED00122,2025-12-14,C0159,PE,Nordeste,P010,Organizador de mesa,Papelaria,2,37.9,Marketplace,Cartão de crédito,Entregue,2.0
+PED00123,2025-03-09,C0090,GO,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Cartão de crédito,Entregue,14.0
+PED00124,2025-09-29,C0247,GO,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,119.9,Marketplace,Boleto,Entregue,9.0
+PED00125,2025-08-28,C0412,ES,Sudeste,P006,Teclado sem fio,Eletrônicos,4,142.41,Loja física,Pix,Entregue,13.0
+PED00126,2025-01-08,C0189,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,1,809.91,Loja física,Boleto,Cancelado,
+PED00127,2025-10-27,C0242,PE,Nordeste,P011,Caderno universitário,Papelaria,1,24.9,Site,Boleto,Entregue,8.0
+PED00128,2025-11-09,C0359,PB,Nordeste,P009,Suporte para monitor,Acessórios,1,107.91,Marketplace,Boleto,Cancelado,
+PED00129,2025-03-13,C0060,ES,Sudeste,P007,Mochila para notebook,Acessórios,1,161.91,Site,Cartão de crédito,Entregue,16.0
+PED00130,2025-07-18,C0301,PR,Sul,P009,Suporte para monitor,Acessórios,1,125.9,Loja física,Boleto,Cancelado,
+PED00131,2025-12-02,C0144,MT,Centro-Oeste,P003,Luminária de mesa,Casa,1,129.9,Site,Boleto,Em transporte,14.0
+PED00132,2025-08-16,C0352,RS,Sul,P006,Teclado sem fio,Eletrônicos,1,142.41,Marketplace,Boleto,Entregue,4.0
+PED00133,2025-02-01,C0047,GO,Centro-Oeste,P011,Caderno universitário,Papelaria,1,23.65,Loja física,Cartão de crédito,Entregue,15.0
+PED00134,2025-01-26,C0036,SP,Sudeste,P011,Caderno universitário,Papelaria,2,23.65,Loja física,Cartão de crédito,Entregue,7.0
+PED00135,2025-04-30,C0142,RS,Sul,P010,Organizador de mesa,Papelaria,1,37.9,Site,Cartão de crédito,Em transporte,1.0
+PED00136,2025-03-31,C0184,PE,Nordeste,P009,Suporte para monitor,Acessórios,1,107.91,Site,Boleto,Entregue,1.0
+PED00137,2025-03-31,C0270,SP,Sudeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Site,Boleto,Cancelado,
+PED00138,2025-08-18,C0232,AM,Norte,P002,Mesa de escritório,Móveis,2,944.89,Loja física,Cartão de crédito,Em transporte,4.0
+PED00139,2025-12-04,C0246,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Pix,Entregue,2.0
+PED00140,2025-09-09,C0165,ES,Sudeste,P011,Caderno universitário,Papelaria,2,24.9,Loja física,Cartão de crédito,Entregue,3.0
+PED00141,2025-05-21,C0196,PR,Sul,P002,Mesa de escritório,Móveis,2,944.89,Loja física,Boleto,Em transporte,11.0
+PED00142,2025-09-16,C0370,PA,Norte,P005,Fone Bluetooth,Eletrônicos,2,179.91,Site,Pix,Entregue,18.0
+PED00143,2025-07-31,C0213,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Cartão de crédito,Cancelado,
+PED00144,2025-06-10,C0035,MT,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Site,Cartão de crédito,Entregue,16.0
+PED00145,2025-02-19,C0031,MT,Centro-Oeste,P002,Mesa de escritório,Móveis,2,899.9,Loja física,Boleto,Entregue,18.0
+PED00146,2025-12-10,C0370,PB,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Site,Pix,Cancelado,
+PED00147,2025-06-30,C0337,CE,Nordeste,P010,Organizador de mesa,Papelaria,1,41.9,Marketplace,Cartão de crédito,Entregue,5.0
+PED00148,2025-10-12,C0414,GO,Centro-Oeste,P002,Mesa de escritório,Móveis,1,899.9,Marketplace,Boleto,Em transporte,8.0
+PED00149,2025-11-08,C0140,SP,Sudeste,P010,Organizador de mesa,Papelaria,4,39.9,Loja física,Pix,Entregue,6.0
+PED00150,2025-01-04,C0036,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Site,Boleto,Em transporte,13.0
+PED00151,2025-02-16,C0215,SP,Sudeste,P011,Caderno universitário,Papelaria,2,23.65,Marketplace,Pix,Cancelado,
+PED00152,2025-06-09,C0027,GO,Centro-Oeste,P003,Luminária de mesa,Casa,2,136.4,Site,Cartão de crédito,Em transporte,3.0
+PED00153,2025-12-12,C0249,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Pix,Cancelado,
+PED00154,2025-04-21,C0057,PE,Nordeste,P007,Mochila para notebook,Acessórios,2,161.91,Marketplace,Boleto,Entregue,14.0
+PED00155,2025-09-27,C0307,AM,Norte,P011,Caderno universitário,Papelaria,2,22.41,Site,Cartão de crédito,Entregue,13.0
+PED00156,2025-04-19,C0062,CE,Nordeste,P004,Garrafa térmica,Casa,2,79.9,Site,Pix,Entregue,11.0
+PED00157,2025-03-31,C0287,MT,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,241.4,Loja física,Pix,Entregue,17.0
+PED00158,2025-01-22,C0295,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,1,899.9,Marketplace,Boleto,Entregue,11.0
+PED00159,2025-05-29,C0411,MT,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,161.91,Loja física,Pix,Entregue,6.0
+PED00160,2025-02-15,C0302,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Boleto,Entregue,14.0
+PED00161,2025-06-08,C0040,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,2,854.9,Loja física,Boleto,Entregue,6.0
+PED00162,2025-06-28,C0075,RS,Sul,P002,Mesa de escritório,Móveis,1,854.9,Marketplace,Cartão de crédito,Entregue,4.0
+PED00163,2025-12-02,C0387,PR,Sul,P003,Luminária de mesa,Casa,1,129.9,Loja física,Boleto,Cancelado,
+PED00164,2025-11-18,C0227,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Pix,Entregue,16.0
+PED00165,2025-06-30,C0232,RJ,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Site,Cartão de crédito,Cancelado,
+PED00166,2025-02-09,C0197,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,2,134.91,Marketplace,Boleto,Em transporte,17.0
+PED00167,2025-08-19,C0310,RJ,Sudeste,P009,Suporte para monitor,Acessórios,3,125.9,Marketplace,Boleto,Entregue,11.0
+PED00168,2025-08-19,C0331,RJ,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Site,Cartão de crédito,Entregue,17.0
+PED00169,2025-08-13,C0191,PA,Norte,P004,Garrafa térmica,Casa,1,83.9,Marketplace,Pix,Entregue,12.0
+PED00170,2025-12-14,C0049,PB,Nordeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Boleto,Entregue,11.0
+PED00171,2025-05-10,C0042,CE,Nordeste,P007,Mochila para notebook,Acessórios,2,188.9,Loja física,Boleto,Entregue,11.0
+PED00172,2025-06-08,C0159,GO,Centro-Oeste,P003,Luminária de mesa,Casa,4,129.9,Loja física,Pix,Entregue,3.0
+PED00173,2025-03-07,C0261,PB,Nordeste,P011,Caderno universitário,Papelaria,2,26.14,Marketplace,Cartão de crédito,Entregue,14.0
+PED00174,2025-04-03,C0099,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,4,149.9,Site,Cartão de crédito,Cancelado,
+PED00175,2025-06-01,C0379,MG,Sudeste,P003,Luminária de mesa,Casa,3,116.91,Loja física,Cartão de crédito,Em transporte,18.0
+PED00176,2025-11-13,C0093,PB,Nordeste,P011,Caderno universitário,Papelaria,1,-24.9,Loja física,Boleto,Entregue,6.0
+PED00177,2025-01-23,C0313,PA,Norte,P003,Luminária de mesa,Casa,1,123.41,Marketplace,Boleto,Cancelado,
+PED00178,2025-10-01,C0348,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Pix,Entregue,12.0
+PED00179,2025-07-15,C0411,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Cartão de crédito,Entregue,7.0
+PED00180,2025-11-25,C0365,RJ,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Loja física,Cartão de crédito,Em transporte,4.0
+PED00181,2025-03-24,C0047,MG,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,209.9,Site,Pix,Entregue,14.0
+PED00182,2025-08-01,C0198,SP,Sudeste,P006,Teclado sem fio,Eletrônicos,1,-157.4,Site,Pix,Entregue,8.0
+PED00183,2025-06-13,C0020,SP,Sudeste,P004,Garrafa térmica,Casa,4,79.9,Marketplace,Pix,Entregue,5.0
+PED00184,2025-12-28,C0010,PR,Sul,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Cartão de crédito,Entregue,3.0
+PED00185,2025-02-26,C0025,MT,Centro-Oeste,P003,Luminária de mesa,Casa,2,123.41,Site,Pix,Entregue,4.0
+PED00186,2025-02-02,C0009,PA,Norte,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Boleto,Em transporte,18.0
+PED00187,2025-03-15,C0124,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,35.91,Loja física,Pix,Em transporte,12.0
+PED00188,2025-09-26,C0260,MG,Sudeste,P003,Luminária de mesa,Casa,4,116.91,Loja física,Boleto,Em transporte,18.0
+PED00189,2025-08-29,C0383,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Pix,Entregue,9.0
+PED00190,2025-05-04,C0069,GO,Centro-Oeste,P002,Mesa de escritório,Móveis,2,809.91,Site,Pix,Em transporte,11.0
+PED00191,2025-11-26,C0324,PB,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Site,Cartão de crédito,Cancelado,
+PED00192,2025-01-19,C0162,PA,Norte,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Boleto,Entregue,2.0
+PED00193,2025-05-10,C0400,,Norte,P007,Mochila para notebook,Acessórios,1,170.91,Site,Boleto,Entregue,12.0
+PED00194,2025-03-05,C0381,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Marketplace,Pix,Cancelado,
+PED00195,2025-09-12,C0411,SC,Sul,P006,Teclado sem fio,Eletrônicos,2,149.9,Site,Boleto,Em transporte,9.0
+PED00196,2025-08-09,C0165,MG,Sudeste,P007,Mochila para notebook,Acessórios,2,170.91,Site,Cartão de crédito,Em transporte,10.0
+PED00197,2025-06-06,C0180,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Cartão de crédito,Entregue,15.0
+PED00198,2025-11-11,C0344,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,5,229.9,Loja física,Pix,Entregue,3.0
+PED00199,2025-01-16,C0018,SC,Sul,P006,Teclado sem fio,Eletrônicos,1,157.4,Site,Cartão de crédito,Cancelado,
+PED00200,2025-07-05,C0348,GO,Centro-Oeste,P004,Garrafa térmica,Casa,1,83.9,Marketplace,Pix,Entregue,5.0
+PED00201,2025-02-09,C0161,PA,Norte,P006,Teclado sem fio,Eletrônicos,2,157.4,Loja física,Pix,Entregue,13.0
+PED00202,2025-01-14,C0288,ES,Sudeste,P004,Garrafa térmica,Casa,2,79.9,Site,Pix,Em transporte,13.0
+PED00203,2025-04-20,C0103,PA,Norte,P005,Fone Bluetooth,Eletrônicos,5,199.9,Site,Cartão de crédito,Cancelado,
+PED00204,2025-03-30,C0342,PA,Norte,P002,Mesa de escritório,Móveis,3,899.9,Marketplace,Boleto,Entregue,11.0
+PED00205,2025-06-03,C0115,CE,Nordeste,P002,Mesa de escritório,Móveis,3,854.9,Site,Cartão de crédito,Entregue,17.0
+PED00206,2025-09-10,C0240,BA,Nordeste,P003,Luminária de mesa,Casa,1,136.4,Loja física,Cartão de crédito,Em transporte,12.0
+PED00207,2025-02-03,C0394,MG,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Boleto,Em transporte,14.0
+PED00208,2025-06-12,C0349,PR,Sul,P002,Mesa de escritório,Móveis,2,899.9,Loja física,Pix,Cancelado,
+PED00209,2025-03-08,C0079,SC,Sul,P003,Luminária de mesa,Casa,1,116.91,Marketplace,Cartão de crédito,Entregue,17.0
+PED00210,2025-12-30,C0129,PB,Nordeste,P003,Luminária de mesa,Casa,1,136.4,Site,Boleto,Entregue,3.0
+PED00211,2025-03-06,C0258,PE,Nordeste,P009,Suporte para monitor,Acessórios,2,125.9,Loja física,Cartão de crédito,Em transporte,3.0
+PED00212,2025-03-29,C0015,PR,Sul,P010,Organizador de mesa,Papelaria,2,41.9,Site,Cartão de crédito,Entregue,2.0
+PED00213,2025-11-30,C0317,PE,Nordeste,P011,Caderno universitário,Papelaria,1,26.14,Loja física,Cartão de crédito,Cancelado,
+PED00214,2025-11-25,C0153,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,4,89.9,Marketplace,Cartão de crédito,Entregue,13.0
+PED00215,2025-03-22,C0105,RJ,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Cancelado,
+PED00216,2025-06-13,C0067,PB,Nordeste,P003,Luminária de mesa,Casa,2,129.9,Marketplace,Boleto,Cancelado,
+PED00217,2025-06-13,C0127,ES,Sudeste,P009,Suporte para monitor,Acessórios,1,107.91,Site,Cartão de crédito,Entregue,15.0
+PED00218,2025-07-16,C0417,CE,Nordeste,P001,Cadeira de escritório,Móveis,3,499.9,Marketplace,Boleto,Entregue,6.0
+PED00219,2025-04-08,C0256,PB,Nordeste,P012,Webcam HD,Eletrônicos,2,229.9,Marketplace,Pix,Em transporte,15.0
+PED00220,2025-07-21,C0025,MG,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Pix,Entregue,12.0
+PED00221,2025-05-27,C0069,AM,Norte,P008,Mouse sem fio,Eletrônicos,1,80.91,Marketplace,Boleto,Cancelado,
+PED00222,2025-07-07,C0100,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Marketplace,Boleto,Em transporte,18.0
+PED00223,2025-07-17,C0066,MG,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,209.9,Site,Pix,Entregue,4.0
+PED00224,2025-10-13,C0206,PB,Nordeste,P006,Teclado sem fio,Eletrônicos,4,142.41,Loja física,Cartão de crédito,Entregue,17.0
+PED00225,2025-03-12,C0077,RJ,Sudeste,P001,Cadeira de escritório,Móveis,2,499.9,Loja física,Boleto,Em transporte,15.0
+PED00226,2025-11-10,C0304,PB,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Boleto,Em transporte,10.0
+PED00227,2025-12-29,C0170,AM,Norte,P009,Suporte para monitor,Acessórios,2,119.9,Loja física,Cartão de crédito,Entregue,12.0
+PED00228,2025-12-19,C0136,CE,Nordeste,P007,Mochila para notebook,Acessórios,2,188.9,Loja física,Boleto,Cancelado,
+PED00229,2025-01-27,C0076,BA,Nordeste,P010,Organizador de mesa,Papelaria,2,37.9,Loja física,Cartão de crédito,Em transporte,13.0
+PED00230,2025-04-08,C0078,ES,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Boleto,Cancelado,
+PED00231,2025-09-14,C0266,MT,Centro-Oeste,P004,Garrafa térmica,Casa,2,79.9,Site,Boleto,Entregue,5.0
+PED00232,2025-09-27,C0273,AM,Norte,P006,Teclado sem fio,Eletrônicos,1,142.41,Marketplace,Boleto,Cancelado,
+PED00233,2025-11-09,C0153,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Site,Pix,Entregue,18.0
+PED00234,2025-12-20,C0179,RS,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Loja física,Boleto,Cancelado,
+PED00235,2025-03-04,C0203,CE,Nordeste,P005,Fone Bluetooth,Eletrônicos,2,209.9,Marketplace,Cartão de crédito,Cancelado,
+PED00236,2025-05-28,C0336,RJ,Sudeste,P005,Fone Bluetooth,Eletrônicos,4,179.91,Marketplace,Boleto,Entregue,15.0
+PED00237,2025-04-14,C0071,RS,Sul,P008,Mouse sem fio,Eletrônicos,3,89.9,Site,Boleto,Em transporte,9.0
+PED00238,2025-05-05,C0027,BA,Nordeste,P012,Webcam HD,Eletrônicos,1,241.4,Site,Pix,Entregue,8.0
+PED00239,2025-02-21,C0081,AM,Norte,P006,Teclado sem fio,Eletrônicos,2,142.41,Marketplace,Boleto,Entregue,18.0
+PED00240,2025-11-30,C0331,AM,Norte,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Cartão de crédito,Entregue,10.0
+PED00241,2025-10-01,C0091,BA,Nordeste,P011,Caderno universitário,Papelaria,2,22.41,Site,Pix,Entregue,14.0
+PED00242,2025-05-29,C0172,SC,Sul,P008,Mouse sem fio,Eletrônicos,3,80.91,Marketplace,Pix,Entregue,4.0
+PED00243,2025-03-10,C0415,AM,Norte,P011,Caderno universitário,Papelaria,3,24.9,Site,Pix,Entregue,7.0
+PED00244,2025-11-28,C0405,PA,Norte,P003,Luminária de mesa,Casa,1,123.41,Marketplace,Boleto,Entregue,11.0
+PED00245,2025-03-31,C0264,RS,Sul,P011,Caderno universitário,Papelaria,2,24.9,Marketplace,Cartão de crédito,Cancelado,
+PED00246,2025-04-05,C0004,ES,Sudeste,P007,Mochila para notebook,Acessórios,5,179.9,Marketplace,Pix,Entregue,8.0
+PED00247,2025-05-17,C0134,PA,Norte,P004,Garrafa térmica,Casa,4,79.9,Loja física,Pix,Em transporte,1.0
+PED00248,2025-02-01,C0208,BA,Nordeste,P012,Webcam HD,Eletrônicos,2,229.9,Loja física,Boleto,Entregue,6.0
+PED00249,2025-12-20,C0113,CE,Nordeste,P012,Webcam HD,Eletrônicos,1,229.9,Site,Pix,Entregue,8.0
+PED00250,2025-11-07,C0388,PA,Norte,P003,Luminária de mesa,Casa,1,136.4,Loja física,Boleto,Cancelado,
+PED00251,2025-12-15,C0271,BA,Nordeste,P004,Garrafa térmica,Casa,2,71.91,Loja física,Pix,Em transporte,15.0
+PED00252,2025-02-01,C0077,ES,Sudeste,P002,Mesa de escritório,Móveis,3,944.89,Site,Pix,Entregue,18.0
+PED00253,2025-03-01,C0047,PA,Norte,P009,Suporte para monitor,Acessórios,2,125.9,Loja física,Pix,Cancelado,
+PED00254,2025-03-09,C0287,PA,Norte,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Boleto,Em transporte,2.0
+PED00255,2025-07-22,C0024,SP,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Pix,Entregue,3.0
+PED00256,2025-10-05,C0017,MG,Sudeste,P012,Webcam HD,Eletrônicos,5,206.91,Marketplace,Pix,Cancelado,
+PED00257,2025-11-25,C0230,PR,Sul,P003,Luminária de mesa,Casa,4,129.9,Marketplace,Pix,Entregue,13.0
+PED00258,2025-12-01,C0202,PR,Sul,P002,Mesa de escritório,Móveis,3,809.91,Loja física,Cartão de crédito,Entregue,18.0
+PED00259,2025-01-02,C0345,BA,Nordeste,P012,Webcam HD,Eletrônicos,2,229.9,Loja física,Boleto,Cancelado,
+PED00260,2025-04-28,C0097,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Cartão de crédito,Entregue,9.0
+PED00261,2025-11-11,C0035,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,449.91,Site,Boleto,Entregue,7.0
+PED00262,2025-11-03,C0206,PA,Norte,P001,Cadeira de escritório,Móveis,2,449.91,Marketplace,Cartão de crédito,Entregue,2.0
+PED00263,2025-01-29,C0296,RS,Sul,P009,Suporte para monitor,Acessórios,1,119.9,Loja física,Boleto,Entregue,11.0
+PED00264,2025-06-04,C0154,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,3,157.4,Marketplace,Cartão de crédito,Entregue,14.0
+PED00265,2025-11-17,C0025,SC,Sul,P009,Suporte para monitor,Acessórios,2,125.9,Marketplace,Boleto,Cancelado,
+PED00266,2025-09-26,C0077,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,1,24.9,Marketplace,Pix,Cancelado,
+PED00267,2025-05-04,C0030,AM,Norte,P003,Luminária de mesa,Casa,3,129.9,Loja física,Pix,Entregue,15.0
+PED00268,2025-07-18,C0231,PR,Sul,P007,Mochila para notebook,Acessórios,1,170.91,Marketplace,Cartão de crédito,Entregue,3.0
+PED00269,2025-01-27,C0038,RS,Sul,P009,Suporte para monitor,Acessórios,1,125.9,Site,Boleto,Em transporte,2.0
+PED00270,2025-09-03,C0109,RS,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Site,Boleto,Entregue,1.0
+PED00271,2025-05-05,C0123,AM,Norte,P002,Mesa de escritório,Móveis,2,854.9,Loja física,Pix,Cancelado,
+PED00272,2025-08-27,C0185,DF,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Loja física,Pix,Entregue,9.0
+PED00273,2025-08-29,C0161,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Marketplace,Cartão de crédito,Entregue,12.0
+PED00274,2025-03-16,C0152,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,41.9,Site,Cartão de crédito,Em transporte,14.0
+PED00275,2025-07-14,C0282,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,2,142.41,Loja física,Boleto,Cancelado,
+PED00276,2025-09-08,C0087,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,4,149.9,Loja física,Pix,Cancelado,
+PED00277,2025-10-07,C0018,PR,Sul,P003,Luminária de mesa,Casa,1,136.4,Site,Boleto,Entregue,17.0
+PED00278,2025-07-31,C0005,SP,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Boleto,Entregue,5.0
+PED00279,2025-01-31,C0338,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,2,94.4,Marketplace,Cartão de crédito,Cancelado,
+PED00280,2025-01-07,C0009,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Boleto,Em transporte,10.0
+PED00281,2025-04-02,C0124,MT,Centro-Oeste,P011,Caderno universitário,Papelaria,1,22.41,Site,Boleto,Em transporte,5.0
+PED00282,2025-07-01,C0208,PE,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Marketplace,Boleto,Entregue,12.0
+PED00283,2025-06-03,C0208,BA,Nordeste,P004,Garrafa térmica,Casa,2,71.91,Marketplace,Pix,Entregue,3.0
+PED00284,2025-01-29,C0223,AM,Norte,P009,Suporte para monitor,Acessórios,2,113.91,Loja física,Pix,Entregue,16.0
+PED00285,2025-09-28,C0139,ES,Sudeste,P010,Organizador de mesa,Papelaria,3,37.9,Site,Cartão de crédito,Entregue,16.0
+PED00286,2025-10-06,C0009,PE,Nordeste,P011,Caderno universitário,Papelaria,2,22.41,Site,Boleto,Entregue,11.0
+PED00287,2025-02-09,C0347,DF,Centro-Oeste,P003,Luminária de mesa,Casa,1,136.4,Loja física,Pix,Entregue,13.0
+PED00288,2025-12-19,C0051,PR,Sul,P007,Mochila para notebook,Acessórios,2,188.9,Marketplace,Cartão de crédito,Entregue,2.0
+PED00289,2025-11-06,C0397,PB,Nordeste,P002,Mesa de escritório,Móveis,2,944.89,Marketplace,Cartão de crédito,Cancelado,
+PED00290,2025-08-19,C0222,PE,Nordeste,P011,Caderno universitário,Papelaria,1,24.9,Site,Boleto,Em transporte,13.0
+PED00291,2025-02-13,C0043,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,2,39.9,Marketplace,Cartão de crédito,Entregue,3.0
+PED00292,2025-07-19,C0158,PR,Sul,P007,Mochila para notebook,Acessórios,1,161.91,Marketplace,Pix,Entregue,1.0
+PED00293,2025-03-09,C0286,ES,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Loja física,Boleto,Cancelado,
+PED00294,2025-01-14,C0198,ES,Sudeste,P007,Mochila para notebook,Acessórios,1,188.9,Site,Pix,Entregue,11.0
+PED00295,2025-02-13,C0087,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,2,188.9,Loja física,Pix,Entregue,17.0
+PED00296,2025-05-18,C0086,PR,Sul,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Pix,Entregue,3.0
+PED00297,2025-09-05,C0370,CE,Nordeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Pix,Entregue,8.0
+PED00298,2025-08-23,C0171,RS,Sul,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Pix,Entregue,13.0
+PED00299,2025-06-21,C0165,PA,Norte,P006,Teclado sem fio,Eletrônicos,1,157.4,Loja física,Boleto,Entregue,10.0
+PED00300,2025-06-10,C0377,AM,Norte,P004,Garrafa térmica,Casa,1,79.9,Loja física,Boleto,Entregue,10.0
+PED00301,2025-06-16,C0289,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Boleto,Entregue,4.0
+PED00302,2025-12-16,C0363,SC,Sul,P009,Suporte para monitor,Acessórios,2,107.91,Site,Pix,Cancelado,
+PED00303,2025-07-29,C0130,MG,Sudeste,P005,Fone Bluetooth,Eletrônicos,2,189.91,Loja física,Cartão de crédito,Entregue,8.0
+PED00304,2025-07-13,C0299,MT,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Boleto,Cancelado,
+PED00305,2025-10-06,C0056,MT,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,119.9,Site,Boleto,Em transporte,3.0
+PED00306,2025-03-27,C0386,GO,Centro-Oeste,P011,Caderno universitário,Papelaria,2,22.41,Marketplace,Pix,Em transporte,13.0
+PED00307,2025-02-20,C0298,SP,Sudeste,P002,Mesa de escritório,Móveis,1,944.89,Loja física,Boleto,Em transporte,18.0
+PED00308,2025-07-11,C0177,PA,Norte,P004,Garrafa térmica,Casa,1,83.9,Site,Pix,Em transporte,5.0
+PED00309,2025-08-01,C0179,CE,Nordeste,P002,Mesa de escritório,Móveis,4,809.91,Marketplace,Pix,Entregue,5.0
+PED00310,2025-09-24,C0370,RS,Sul,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Pix,Entregue,15.0
+PED00311,2025-06-03,C0332,MG,Sudeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Site,Boleto,Entregue,11.0
+PED00312,2025-09-22,C0219,BA,Nordeste,P003,Luminária de mesa,Casa,0,123.41,Marketplace,Cartão de crédito,Entregue,18.0
+PED00313,2025-04-06,C0015,SC,Sul,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Boleto,Cancelado,
+PED00314,2025-10-31,C0143,PA,Norte,P004,Garrafa térmica,Casa,1,71.91,Loja física,Cartão de crédito,Entregue,7.0
+PED00315,2025-10-02,C0059,ES,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Boleto,Entregue,15.0
+PED00316,2025-11-02,C0179,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Marketplace,Pix,Em transporte,4.0
+PED00317,2025-12-11,C0345,SC,Sul,P010,Organizador de mesa,Papelaria,2,39.9,Site,Pix,Em transporte,3.0
+PED00318,2025-06-06,C0199,BA,Nordeste,P002,Mesa de escritório,Móveis,1,899.9,Marketplace,Boleto,Entregue,17.0
+PED00319,2025-08-05,C0086,DF,Centro-Oeste,P003,Luminária de mesa,Casa,1,136.4,Marketplace,Pix,Entregue,18.0
+PED00320,2025-06-11,C0005,SC,Sul,P003,Luminária de mesa,Casa,3,136.4,Marketplace,Cartão de crédito,Entregue,12.0
+PED00321,2025-10-15,C0351,DF,Centro-Oeste,P004,Garrafa térmica,Casa,1,79.9,Marketplace,Pix,Cancelado,
+PED00322,2025-09-08,C0150,PA,Norte,P012,Webcam HD,Eletrônicos,1,241.4,Site,Pix,Entregue,8.0
+PED00323,2025-03-28,C0282,CE,Nordeste,P004,Garrafa térmica,Casa,2,83.9,Loja física,Cartão de crédito,Cancelado,
+PED00324,2025-05-18,C0390,ES,Sudeste,P010,Organizador de mesa,Papelaria,2,39.9,Loja física,Pix,Em transporte,2.0
+PED00325,2025-08-06,C0231,RS,Sul,P009,Suporte para monitor,Acessórios,1,113.91,Marketplace,Pix,Entregue,2.0
+PED00326,2025-03-02,C0364,PA,Norte,P002,Mesa de escritório,Móveis,2,854.9,Loja física,Boleto,Entregue,12.0
+PED00327,2025-11-12,C0292,SC,Sul,P007,Mochila para notebook,Acessórios,1,170.91,Marketplace,Boleto,Entregue,2.0
+PED00328,2025-06-15,C0264,SC,Sul,P005,Fone Bluetooth,Eletrônicos,4,199.9,Loja física,Cartão de crédito,Entregue,9.0
+PED00329,2025-01-31,C0075,MT,Centro-Oeste,P003,Luminária de mesa,Casa,5,123.41,Loja física,Pix,Entregue,8.0
+PED00330,2025-09-08,C0193,DF,Centro-Oeste,P004,Garrafa térmica,Casa,1,79.9,Marketplace,Cartão de crédito,Cancelado,
+PED00331,2025-07-26,C0250,MG,Sudeste,P011,Caderno universitário,Papelaria,1,24.9,Marketplace,Boleto,Entregue,15.0
+PED00332,2025-08-23,C0204,MG,Sudeste,P001,Cadeira de escritório,Móveis,2,499.9,Site,Pix,Entregue,18.0
+PED00333,2025-05-18,C0296,AM,Norte,P004,Garrafa térmica,Casa,1,79.9,Site,Boleto,Entregue,18.0
+PED00334,2025-12-16,C0009,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,2,80.91,Site,Cartão de crédito,Entregue,15.0
+PED00335,2025-01-01,C0333,PA,Norte,P008,Mouse sem fio,Eletrônicos,5,89.9,Marketplace,Cartão de crédito,Entregue,5.0
+PED00336,2025-12-02,C0027,MG,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Boleto,Entregue,6.0
+PED00337,2025-08-08,C0245,,Nordeste,P005,Fone Bluetooth,Eletrônicos,2,179.91,Site,Cartão de crédito,Entregue,7.0
+PED00338,2025-09-23,C0419,BA,Nordeste,P010,Organizador de mesa,Papelaria,2,35.91,Site,Pix,Entregue,11.0
+PED00339,2025-09-02,C0053,PR,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Pix,Entregue,4.0
+PED00340,2025-07-15,C0272,PR,Sul,P005,Fone Bluetooth,Eletrônicos,2,189.91,Loja física,Cartão de crédito,Entregue,3.0
+PED00341,2025-08-14,C0316,SC,Sul,P010,Organizador de mesa,Papelaria,1,37.9,Loja física,Pix,Entregue,14.0
+PED00342,2025-02-21,C0180,MG,Sudeste,P004,Garrafa térmica,Casa,1,71.91,Marketplace,Pix,Em transporte,13.0
+PED00343,2025-05-22,C0399,BA,Nordeste,P003,Luminária de mesa,Casa,2,123.41,Loja física,Cartão de crédito,Em transporte,10.0
+PED00344,2025-04-16,C0152,CE,Nordeste,P011,Caderno universitário,Papelaria,1,26.14,Loja física,Cartão de crédito,Entregue,13.0
+PED00345,2025-07-17,C0271,AM,Norte,P004,Garrafa térmica,Casa,1,79.9,Site,Pix,Em transporte,3.0
+PED00346,2025-07-18,C0188,PR,Sul,P006,Teclado sem fio,Eletrônicos,3,157.4,Loja física,Boleto,Cancelado,
+PED00347,2025-02-07,C0111,AM,Norte,P003,Luminária de mesa,Casa,1,116.91,Site,Cartão de crédito,Entregue,9.0
+PED00348,2025-11-18,C0360,CE,Nordeste,P007,Mochila para notebook,Acessórios,2,179.9,Marketplace,Cartão de crédito,Cancelado,
+PED00349,2025-05-23,C0414,PR,Sul,P011,Caderno universitário,Papelaria,1,22.41,Site,Boleto,Em transporte,7.0
+PED00350,2025-10-28,C0374,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,134.91,Site,Cartão de crédito,Entregue,14.0
+PED00351,2025-08-11,C0159,MG,Sudeste,P004,Garrafa térmica,Casa,1,83.9,Loja física,Boleto,Em transporte,2.0
+PED00352,2025-03-03,C0255,SC,Sul,P011,Caderno universitário,Papelaria,1,23.65,Marketplace,Boleto,Entregue,6.0
+PED00353,2025-03-27,C0172,PE,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Marketplace,Pix,Entregue,1.0
+PED00354,2025-05-15,C0234,MG,Sudeste,P009,Suporte para monitor,Acessórios,2,125.9,Loja física,Pix,Entregue,16.0
+PED00355,2025-10-18,C0294,AM,Norte,P001,Cadeira de escritório,Móveis,1,474.9,Loja física,Boleto,Entregue,4.0
+PED00356,2025-09-18,C0242,BA,Nordeste,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Pix,Entregue,2.0
+PED00357,2025-01-19,C0128,SC,Sul,P003,Luminária de mesa,Casa,2,129.9,Marketplace,Boleto,Entregue,11.0
+PED00358,2025-02-09,C0092,PE,Nordeste,P006,Teclado sem fio,Eletrônicos,2,134.91,Site,Boleto,Em transporte,2.0
+PED00359,2025-02-05,C0045,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,3,499.9,Loja física,Pix,Entregue,11.0
+PED00360,2025-04-13,C0238,GO,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Boleto,Em transporte,8.0
+PED00361,2025-10-07,C0210,RS,Sul,P008,Mouse sem fio,Eletrônicos,2,85.41,Site,Cartão de crédito,Entregue,1.0
+PED00362,2025-11-22,C0389,GO,Centro-Oeste,P009,Suporte para monitor,Acessórios,3,107.91,Loja física,Pix,Entregue,1.0
+PED00363,2025-02-23,C0252,CE,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Site,Cartão de crédito,Cancelado,
+PED00364,2025-02-17,C0359,PE,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Marketplace,Pix,Em transporte,14.0
+PED00365,2025-10-25,C0039,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,218.41,Loja física,Boleto,Cancelado,
+PED00366,2025-12-06,C0162,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,4,474.9,Marketplace,Boleto,Entregue,9.0
+PED00367,2025-06-12,C0070,PB,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Loja física,Cartão de crédito,Entregue,7.0
+PED00368,2025-03-26,C0062,ES,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Loja física,Pix,Cancelado,
+PED00369,2025-06-07,C0414,PA,Norte,P004,Garrafa térmica,Casa,1,71.91,Loja física,Pix,Entregue,6.0
+PED00370,2025-04-21,C0365,RJ,Sudeste,P012,Webcam HD,Eletrônicos,3,229.9,Site,Pix,Entregue,3.0
+PED00371,2025-12-13,C0232,RJ,Sudeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Boleto,Entregue,13.0
+PED00372,2025-02-18,C0032,BA,Nordeste,P009,Suporte para monitor,Acessórios,1,113.91,Site,Cartão de crédito,Entregue,1.0
+PED00373,2025-07-10,C0417,DF,Centro-Oeste,P004,Garrafa térmica,Casa,2,71.91,Site,Cartão de crédito,Em transporte,9.0
+PED00374,2025-11-27,C0063,RS,Sul,P002,Mesa de escritório,Móveis,1,854.9,Site,Pix,Entregue,11.0
+PED00375,2025-10-21,C0016,SC,Sul,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Boleto,Cancelado,
+PED00376,2025-07-01,C0229,SC,Sul,P007,Mochila para notebook,Acessórios,1,170.91,Site,Cartão de crédito,Entregue,9.0
+PED00377,2025-11-28,C0032,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Pix,Em transporte,16.0
+PED00378,2025-08-03,C0407,PR,Sul,P007,Mochila para notebook,Acessórios,1,188.9,Site,Pix,Entregue,18.0
+PED00379,2025-09-03,C0165,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Pix,Entregue,17.0
+PED00380,2025-06-13,C0415,SP,Sudeste,P003,Luminária de mesa,Casa,2,116.91,Marketplace,Boleto,Entregue,2.0
+PED00381,2025-03-23,C0418,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Loja física,Cartão de crédito,Entregue,18.0
+PED00382,2025-07-01,C0304,DF,Centro-Oeste,P004,Garrafa térmica,Casa,4,75.91,Marketplace,Boleto,Entregue,8.0
+PED00383,2025-10-30,C0289,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,229.9,Site,Pix,Em transporte,5.0
+PED00384,2025-03-31,C0309,CE,Nordeste,P009,Suporte para monitor,Acessórios,1,107.91,Site,Cartão de crédito,Entregue,8.0
+PED00385,2025-01-01,C0175,AM,Norte,P009,Suporte para monitor,Acessórios,1,125.9,Loja física,Cartão de crédito,Entregue,5.0
+PED00386,2025-01-12,C0187,RJ,Sudeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Site,Pix,Entregue,17.0
+PED00387,2025-10-28,C0081,DF,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Entregue,5.0
+PED00388,2025-11-29,C0115,AM,Norte,P011,Caderno universitário,Papelaria,1,26.14,Loja física,Boleto,Em transporte,12.0
+PED00389,2025-06-07,C0374,DF,Centro-Oeste,P003,Luminária de mesa,Casa,2,129.9,Site,Boleto,Entregue,6.0
+PED00390,2025-10-18,C0328,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,41.9,Loja física,Cartão de crédito,Entregue,8.0
+PED00391,2025-06-19,C0086,PR,Sul,P008,Mouse sem fio,Eletrônicos,2,85.41,Loja física,Cartão de crédito,Entregue,11.0
+PED00392,2025-08-17,C0180,PB,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Marketplace,Cartão de crédito,Entregue,3.0
+PED00393,2025-01-25,C0253,SP,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Pix,Entregue,14.0
+PED00394,2025-02-21,C0232,DF,Centro-Oeste,P009,Suporte para monitor,Acessórios,3,125.9,Site,Cartão de crédito,Entregue,6.0
+PED00395,2025-06-13,C0088,SP,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Cartão de crédito,Entregue,11.0
+PED00396,2025-10-08,C0361,,Sudeste,P012,Webcam HD,Eletrônicos,4,206.91,Site,Pix,Entregue,16.0
+PED00397,2025-11-07,C0170,SC,Sul,P011,Caderno universitário,Papelaria,3,23.65,Site,Cartão de crédito,Entregue,4.0
+PED00398,2025-12-05,C0202,PE,Nordeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Boleto,Entregue,2.0
+PED00399,2025-01-28,C0339,PR,Sul,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Boleto,Entregue,10.0
+PED00400,2025-02-19,C0243,RS,Sul,P008,Mouse sem fio,Eletrônicos,1,85.41,Site,Pix,Entregue,3.0
+PED00401,2025-09-08,C0199,AM,Norte,P007,Mochila para notebook,Acessórios,3,179.9,Site,Pix,Entregue,18.0
+PED00402,2025-04-06,C0239,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Cancelado,
+PED00403,2025-03-19,C0414,RJ,Sudeste,P005,Fone Bluetooth,Eletrônicos,2,179.91,Loja física,Pix,Entregue,12.0
+PED00404,2025-10-11,C0275,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Pix,Em transporte,14.0
+PED00405,2025-09-01,C0293,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Boleto,Entregue,17.0
+PED00406,2025-03-03,C0109,PR,Sul,P011,Caderno universitário,Papelaria,4,24.9,Site,Cartão de crédito,Entregue,6.0
+PED00407,2025-02-10,C0305,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,5,499.9,Marketplace,Pix,Entregue,5.0
+PED00408,2025-02-14,C0142,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Em transporte,11.0
+PED00409,2025-02-27,C0055,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,474.9,Loja física,Cartão de crédito,Em transporte,4.0
+PED00410,2025-07-30,C0020,GO,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Site,Pix,Em transporte,16.0
+PED00411,2025-11-13,C0170,PR,Sul,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Cartão de crédito,Entregue,13.0
+PED00412,2025-05-18,C0160,AM,Norte,P001,Cadeira de escritório,Móveis,3,449.91,Marketplace,Pix,Entregue,10.0
+PED00413,2025-04-27,C0374,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Entregue,9.0
+PED00414,2025-04-07,C0389,MG,Sudeste,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Pix,Cancelado,
+PED00415,2025-02-03,C0070,SC,Sul,P001,Cadeira de escritório,Móveis,1,524.89,Loja física,Boleto,Cancelado,
+PED00416,2025-04-09,C0017,SC,Sul,P001,Cadeira de escritório,Móveis,3,474.9,Marketplace,Cartão de crédito,Entregue,8.0
+PED00417,2025-05-21,C0326,RS,Sul,P006,Teclado sem fio,Eletrônicos,1,149.9,Site,Boleto,Em transporte,13.0
+PED00418,2025-07-10,C0301,BA,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Pix,Entregue,16.0
+PED00419,2025-05-13,C0198,SC,Sul,P006,Teclado sem fio,Eletrônicos,2,134.91,Site,Cartão de crédito,Entregue,1.0
+PED00420,2025-04-24,C0263,RS,Sul,P010,Organizador de mesa,Papelaria,2,37.9,Site,Boleto,Entregue,14.0
+PED00421,2025-03-09,C0130,AM,Norte,P001,Cadeira de escritório,Móveis,2,524.89,Loja física,Pix,Entregue,8.0
+PED00422,2025-08-05,C0130,PE,Nordeste,P012,Webcam HD,Eletrônicos,3,229.9,Site,Pix,Cancelado,
+PED00423,2025-10-27,C0332,DF,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,1,209.9,Loja física,Boleto,Entregue,18.0
+PED00424,2025-12-17,C0328,CE,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Pix,Entregue,9.0
+PED00425,2025-04-07,C0339,CE,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,189.91,Marketplace,Boleto,Entregue,13.0
+PED00426,2025-12-02,C0208,SP,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Boleto,Entregue,14.0
+PED00427,2025-06-25,C0344,RS,Sul,P001,Cadeira de escritório,Móveis,2,474.9,Marketplace,Boleto,Em transporte,16.0
+PED00428,2025-12-03,C0242,SC,Sul,P005,Fone Bluetooth,Eletrônicos,3,189.91,Site,Boleto,Entregue,4.0
+PED00429,2025-12-15,C0115,SC,Sul,P005,Fone Bluetooth,Eletrônicos,3,179.91,Loja física,Pix,Entregue,12.0
+PED00430,2025-07-10,C0061,PB,Nordeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Cancelado,
+PED00431,2025-08-30,C0272,MG,Sudeste,P011,Caderno universitário,Papelaria,3,26.14,Marketplace,Pix,Entregue,13.0
+PED00432,2025-03-12,C0292,PR,Sul,P001,Cadeira de escritório,Móveis,5,499.9,Marketplace,Cartão de crédito,Cancelado,
+PED00433,2025-02-11,C0003,SC,Sul,P006,Teclado sem fio,Eletrônicos,1,142.41,Marketplace,Pix,Entregue,2.0
+PED00434,2025-10-23,C0315,SC,Sul,P004,Garrafa térmica,Casa,2,79.9,Marketplace,Boleto,Entregue,5.0
+PED00435,2025-08-08,C0274,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,4,179.9,Site,Boleto,Entregue,2.0
+PED00436,2025-06-14,C0347,SP,Sudeste,P006,Teclado sem fio,Eletrônicos,2,157.4,Site,Boleto,Entregue,1.0
+PED00437,2025-04-26,C0053,BA,Nordeste,P012,Webcam HD,Eletrônicos,2,229.9,Marketplace,Boleto,Entregue,5.0
+PED00438,2025-03-27,C0234,CE,Nordeste,P010,Organizador de mesa,Papelaria,1,35.91,Loja física,Boleto,Entregue,10.0
+PED00439,2025-08-11,C0184,PB,Nordeste,P010,Organizador de mesa,Papelaria,3,37.9,Site,Cartão de crédito,Entregue,16.0
+PED00440,2025-04-27,C0302,SP,Sudeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Cartão de crédito,Entregue,1.0
+PED00441,2025-12-31,C0328,GO,Centro-Oeste,P002,Mesa de escritório,Móveis,2,809.91,Marketplace,Boleto,Cancelado,
+PED00442,2025-11-01,C0354,RJ,Sudeste,P010,Organizador de mesa,Papelaria,5,35.91,Site,Pix,Entregue,2.0
+PED00443,2025-03-05,C0356,DF,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Boleto,Entregue,7.0
+PED00444,2025-08-04,C0215,CE,Nordeste,P001,Cadeira de escritório,Móveis,2,524.89,Site,Boleto,Entregue,5.0
+PED00445,2025-05-25,C0102,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Loja física,Cartão de crédito,Cancelado,
+PED00446,2025-07-03,C0281,RS,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Cartão de crédito,Entregue,2.0
+PED00447,2025-06-19,C0294,AM,Norte,P012,Webcam HD,Eletrônicos,1,206.91,Loja física,Pix,Entregue,4.0
+PED00448,2025-09-19,C0234,MG,Sudeste,P003,Luminária de mesa,Casa,1,116.91,Marketplace,Pix,Entregue,8.0
+PED00449,2025-02-21,C0411,RJ,Sudeste,P008,Mouse sem fio,Eletrônicos,3,80.91,Loja física,Pix,Entregue,12.0
+PED00450,2025-02-18,C0340,ES,Sudeste,P007,Mochila para notebook,Acessórios,3,161.91,Loja física,Cartão de crédito,Entregue,5.0
+PED00451,2025-08-13,C0418,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,4,149.9,Marketplace,Cartão de crédito,Entregue,12.0
+PED00452,2025-07-24,C0354,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,4,899.9,Marketplace,Pix,Cancelado,
+PED00453,2025-02-27,C0214,SC,Sul,P011,Caderno universitário,Papelaria,1,22.41,Loja física,Pix,Entregue,4.0
+PED00454,2025-04-03,C0351,PA,Norte,P010,Organizador de mesa,Papelaria,2,39.9,Loja física,Cartão de crédito,Em transporte,1.0
+PED00455,2025-02-27,C0134,AM,Norte,P008,Mouse sem fio,Eletrônicos,3,89.9,Loja física,Pix,Entregue,3.0
+PED00456,2025-12-09,C0222,BA,Nordeste,P001,Cadeira de escritório,Móveis,3,524.89,Loja física,Boleto,Em transporte,4.0
+PED00457,2025-06-27,C0314,AM,Norte,P004,Garrafa térmica,Casa,2,79.9,Site,Cartão de crédito,Entregue,18.0
+PED00458,2025-09-16,C0385,SC,Sul,P011,Caderno universitário,Papelaria,3,24.9,Marketplace,Pix,Entregue,3.0
+PED00459,2025-05-23,C0207,PB,Nordeste,P004,Garrafa térmica,Casa,1,75.91,Site,Cartão de crédito,Em transporte,13.0
+PED00460,2025-10-21,C0162,PA,Norte,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Pix,Cancelado,
+PED00461,2025-02-22,C0001,SP,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Site,Boleto,Em transporte,18.0
+PED00462,2025-09-18,C0028,CE,Nordeste,P010,Organizador de mesa,Papelaria,2,39.9,Site,Pix,Entregue,12.0
+PED00463,2025-12-03,C0389,AM,Norte,P006,Teclado sem fio,Eletrônicos,0,149.9,Loja física,Cartão de crédito,Entregue,4.0
+PED00464,2025-07-01,C0192,PB,Nordeste,P001,Cadeira de escritório,Móveis,3,499.9,Loja física,Cartão de crédito,Em transporte,17.0
+PED00465,2025-09-10,C0313,SC,Sul,P001,Cadeira de escritório,Móveis,1,499.9,Site,Cartão de crédito,Entregue,9.0
+PED00466,2025-04-21,C0388,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,1,854.9,Marketplace,Cartão de crédito,Entregue,4.0
+PED00467,2025-08-19,C0256,ES,Sudeste,P011,Caderno universitário,Papelaria,1,26.14,Site,Boleto,Em transporte,5.0
+PED00468,2025-10-11,C0261,RJ,Sudeste,P012,Webcam HD,Eletrônicos,4,241.4,Site,Boleto,Cancelado,
+PED00469,2025-03-07,C0259,SC,Sul,P010,Organizador de mesa,Papelaria,1,41.9,Marketplace,Pix,Em transporte,11.0
+PED00470,2025-05-21,C0413,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Cartão de crédito,Entregue,15.0
+PED00471,2025-12-26,C0103,CE,Nordeste,P007,Mochila para notebook,Acessórios,1,179.9,Site,Boleto,Em transporte,7.0
+PED00472,2025-12-18,C0278,CE,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Loja física,Boleto,Entregue,17.0
+PED00473,2025-06-30,C0346,ES,Sudeste,P006,Teclado sem fio,Eletrônicos,2,157.4,Loja física,Boleto,Em transporte,14.0
+PED00474,2025-01-07,C0075,MT,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Site,Boleto,Cancelado,
+PED00475,2025-05-17,C0075,RS,Sul,P001,Cadeira de escritório,Móveis,2,474.9,Site,Boleto,Entregue,9.0
+PED00476,2025-10-05,C0115,RS,Sul,P005,Fone Bluetooth,Eletrônicos,1,199.9,Loja física,Boleto,Entregue,18.0
+PED00477,2025-05-02,C0199,DF,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,119.9,Marketplace,Boleto,Entregue,13.0
+PED00478,2025-01-07,C0116,RJ,Sudeste,P006,Teclado sem fio,Eletrônicos,2,142.41,Loja física,Boleto,Em transporte,15.0
+PED00479,2025-10-29,C0151,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Cartão de crédito,Entregue,7.0
+PED00480,2025-04-06,C0021,MG,Sudeste,P011,Caderno universitário,Papelaria,4,26.14,Marketplace,Pix,Entregue,13.0
+PED00481,2025-03-08,C0239,PE,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Loja física,Cartão de crédito,Entregue,11.0
+PED00482,2025-06-15,C0405,PR,Sul,P001,Cadeira de escritório,Móveis,2,524.89,Loja física,Boleto,Entregue,16.0
+PED00483,2025-12-29,C0035,MG,Sudeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Loja física,Cartão de crédito,Entregue,17.0
+PED00484,2025-02-17,C0185,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,170.91,Marketplace,Cartão de crédito,Entregue,11.0
+PED00485,2025-10-15,C0229,AM,Norte,P010,Organizador de mesa,Papelaria,3,35.91,Site,Boleto,Entregue,12.0
+PED00486,2025-01-21,C0408,BA,Nordeste,P010,Organizador de mesa,Papelaria,2,39.9,Site,Pix,Cancelado,
+PED00487,2025-01-13,C0229,,Nordeste,P005,Fone Bluetooth,Eletrônicos,3,199.9,Marketplace,Cartão de crédito,Em transporte,17.0
+PED00488,2025-06-14,C0274,RS,Sul,P005,Fone Bluetooth,Eletrônicos,1,179.91,Site,Boleto,Entregue,18.0
+PED00489,2025-12-10,C0054,RS,Sul,P002,Mesa de escritório,Móveis,2,854.9,Site,Boleto,Cancelado,
+PED00490,2025-11-28,C0236,MT,Centro-Oeste,P012,Webcam HD,Eletrônicos,3,206.91,Loja física,Pix,Entregue,1.0
+PED00491,2025-02-07,C0295,MG,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Pix,Em transporte,3.0
+PED00492,2025-08-19,C0200,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Cartão de crédito,Entregue,1.0
+PED00493,2025-11-25,C0359,SP,Sudeste,P009,Suporte para monitor,Acessórios,2,107.91,Site,Pix,Em transporte,2.0
+PED00494,2025-05-29,C0145,ES,Sudeste,P009,Suporte para monitor,Acessórios,2,119.9,Marketplace,Pix,Em transporte,3.0
+PED00495,2025-08-31,C0408,SP,Sudeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Pix,Entregue,13.0
+PED00496,2025-06-02,C0285,PR,Sul,P011,Caderno universitário,Papelaria,2,24.9,Site,Cartão de crédito,Entregue,18.0
+PED00497,2025-10-21,C0157,SP,Sudeste,P001,Cadeira de escritório,Móveis,2,524.89,Site,Boleto,Em transporte,3.0
+PED00498,2025-04-19,C0095,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,241.4,Site,Boleto,Entregue,6.0
+PED00499,2025-02-28,C0237,RS,Sul,P005,Fone Bluetooth,Eletrônicos,1,209.9,Loja física,Boleto,Entregue,18.0
+PED00500,2025-12-10,C0170,CE,Nordeste,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Cartão de crédito,Entregue,16.0
+PED00501,2025-02-21,C0249,BA,Nordeste,P011,Caderno universitário,Papelaria,1,22.41,Marketplace,Pix,Entregue,11.0
+PED00502,2025-12-22,C0414,CE,Nordeste,P010,Organizador de mesa,Papelaria,2,41.9,Marketplace,Pix,Em transporte,12.0
+PED00503,2025-06-10,C0142,SP,Sudeste,P003,Luminária de mesa,Casa,1,123.41,Marketplace,Cartão de crédito,Cancelado,
+PED00504,2025-09-03,C0283,PB,Nordeste,P011,Caderno universitário,Papelaria,1,24.9,Site,Cartão de crédito,Entregue,16.0
+PED00505,2025-05-24,C0135,MG,Sudeste,P011,Caderno universitário,Papelaria,3,23.65,Loja física,Boleto,Em transporte,7.0
+PED00506,2025-01-10,C0394,MG,Sudeste,P002,Mesa de escritório,Móveis,3,809.91,Loja física,Cartão de crédito,Em transporte,13.0
+PED00507,2025-10-06,C0335,PE,Nordeste,P001,Cadeira de escritório,Móveis,3,524.89,Site,Pix,Cancelado,
+PED00508,2025-10-29,C0257,BA,Nordeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Cartão de crédito,Entregue,15.0
+PED00509,2025-09-15,C0388,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,170.91,Loja física,Cartão de crédito,Em transporte,6.0
+PED00510,2025-04-02,C0184,SC,Sul,P008,Mouse sem fio,Eletrônicos,2,94.4,Site,Cartão de crédito,Entregue,16.0
+PED00511,2025-02-02,C0266,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Marketplace,Pix,Entregue,7.0
+PED00512,2025-01-24,C0325,PA,Norte,P008,Mouse sem fio,Eletrônicos,1,89.9,Marketplace,Boleto,Entregue,17.0
+PED00513,2025-07-12,C0265,SC,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Em transporte,3.0
+PED00514,2025-06-30,C0406,DF,Centro-Oeste,P004,Garrafa térmica,Casa,3,79.9,Marketplace,Boleto,Cancelado,
+PED00515,2025-08-14,C0109,PR,Sul,P001,Cadeira de escritório,Móveis,1,449.91,Site,Cartão de crédito,Em transporte,9.0
+PED00516,2025-11-05,C0416,GO,Centro-Oeste,P003,Luminária de mesa,Casa,2,116.91,Marketplace,Boleto,Entregue,14.0
+PED00517,2025-12-12,C0332,AM,Norte,P002,Mesa de escritório,Móveis,1,854.9,Marketplace,Cartão de crédito,Em transporte,6.0
+PED00518,2025-03-07,C0021,RJ,Sudeste,P004,Garrafa térmica,Casa,2,75.91,Loja física,Cartão de crédito,Entregue,17.0
+PED00519,2025-05-13,C0307,SC,Sul,P001,Cadeira de escritório,Móveis,4,524.89,Loja física,Boleto,Cancelado,
+PED00520,2025-02-13,C0247,CE,Nordeste,P001,Cadeira de escritório,Móveis,1,524.89,Site,Cartão de crédito,Cancelado,
+PED00521,2025-10-26,C0136,PR,Sul,P007,Mochila para notebook,Acessórios,3,170.91,Site,Boleto,Em transporte,17.0
+PED00522,2025-08-21,C0198,PB,Nordeste,P011,Caderno universitário,Papelaria,2,22.41,Site,Cartão de crédito,Entregue,13.0
+PED00523,2025-09-25,C0077,RS,Sul,P001,Cadeira de escritório,Móveis,3,524.89,Loja física,Cartão de crédito,Cancelado,
+PED00524,2025-11-11,C0048,AM,Norte,P003,Luminária de mesa,Casa,2,136.4,Marketplace,Boleto,Em transporte,4.0
+PED00525,2025-12-14,C0190,SP,Sudeste,P003,Luminária de mesa,Casa,2,136.4,Site,Boleto,Cancelado,
+PED00526,2025-04-28,C0180,MT,Centro-Oeste,P009,Suporte para monitor,Acessórios,4,119.9,Loja física,Boleto,Cancelado,
+PED00527,2025-08-06,C0146,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Boleto,Entregue,3.0
+PED00528,2025-04-07,C0061,PE,Nordeste,P007,Mochila para notebook,Acessórios,1,161.91,Loja física,Cartão de crédito,Em transporte,17.0
+PED00529,2025-12-19,C0080,RS,Sul,P007,Mochila para notebook,Acessórios,3,179.9,Marketplace,Boleto,Entregue,4.0
+PED00530,2025-05-14,C0314,PE,Nordeste,P010,Organizador de mesa,Papelaria,3,39.9,Marketplace,Boleto,Em transporte,12.0
+PED00531,2025-07-31,C0092,RS,Sul,P007,Mochila para notebook,Acessórios,2,188.9,Marketplace,Boleto,Cancelado,
+PED00532,2025-05-10,C0377,AM,Norte,P009,Suporte para monitor,Acessórios,5,125.9,Site,Boleto,Entregue,13.0
+PED00533,2025-08-17,C0261,BA,Nordeste,P002,Mesa de escritório,Móveis,2,854.9,Marketplace,Pix,Entregue,7.0
+PED00534,2025-03-24,C0242,RJ,Sudeste,P009,Suporte para monitor,Acessórios,1,107.91,Loja física,Pix,Entregue,5.0
+PED00535,2025-05-15,C0371,MG,Sudeste,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Pix,Em transporte,2.0
+PED00536,2025-12-31,C0225,CE,Nordeste,P010,Organizador de mesa,Papelaria,4,35.91,Site,Cartão de crédito,Entregue,16.0
+PED00537,2025-04-10,C0358,CE,Nordeste,P011,Caderno universitário,Papelaria,1,26.14,Site,Boleto,Em transporte,17.0
+PED00538,2025-07-04,C0142,RJ,Sudeste,P003,Luminária de mesa,Casa,1,116.91,Marketplace,Pix,Entregue,3.0
+PED00539,2025-07-27,C0047,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,2,26.14,Loja física,Pix,Entregue,3.0
+PED00540,2025-06-27,C0233,GO,Centro-Oeste,P012,Webcam HD,Eletrônicos,4,229.9,Marketplace,Boleto,Entregue,7.0
+PED00541,2025-03-31,C0258,PE,Nordeste,P001,Cadeira de escritório,Móveis,1,449.91,Marketplace,Pix,Em transporte,3.0
+PED00542,2025-10-03,C0194,PE,Nordeste,P002,Mesa de escritório,Móveis,3,944.89,Loja física,Pix,Entregue,15.0
+PED00543,2025-08-23,C0060,PB,Nordeste,P004,Garrafa térmica,Casa,2,83.9,Marketplace,Cartão de crédito,Entregue,16.0
+PED00544,2025-12-13,C0181,BA,Nordeste,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Boleto,Cancelado,
+PED00545,2025-05-08,C0284,PE,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Pix,Entregue,3.0
+PED00546,2025-04-22,C0256,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Loja física,Cartão de crédito,Entregue,7.0
+PED00547,2025-05-16,C0080,BA,Nordeste,P004,Garrafa térmica,Casa,1,75.91,Site,Cartão de crédito,Entregue,12.0
+PED00548,2025-11-11,C0191,,Norte,P002,Mesa de escritório,Móveis,1,944.89,Loja física,Pix,Entregue,16.0
+PED00549,2025-09-09,C0114,PE,Nordeste,P008,Mouse sem fio,Eletrônicos,1,94.4,Loja física,Cartão de crédito,Entregue,13.0
+PED00550,2025-09-02,C0202,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,4,449.91,Loja física,Cartão de crédito,Em transporte,12.0
+PED00551,2025-12-24,C0346,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Pix,Entregue,1.0
+PED00552,2025-06-16,C0135,ES,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Pix,Entregue,18.0
+PED00553,2025-07-07,C0359,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Marketplace,Pix,Entregue,14.0
+PED00554,2025-08-19,C0417,PE,Nordeste,P007,Mochila para notebook,Acessórios,1,170.91,Site,Boleto,Em transporte,8.0
+PED00555,2025-10-12,C0410,BA,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Loja física,Cartão de crédito,Entregue,5.0
+PED00556,2025-04-01,C0369,SP,Sudeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Marketplace,Pix,Em transporte,18.0
+PED00557,2025-10-15,C0051,PE,Nordeste,P005,Fone Bluetooth,Eletrônicos,3,179.91,Loja física,Cartão de crédito,Cancelado,
+PED00558,2025-05-11,C0382,RS,Sul,P001,Cadeira de escritório,Móveis,1,449.91,Marketplace,Pix,Cancelado,
+PED00559,2025-10-14,C0211,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Site,Pix,Entregue,1.0
+PED00560,2025-10-23,C0182,RS,Sul,P011,Caderno universitário,Papelaria,2,26.14,Marketplace,Boleto,Entregue,10.0
+PED00561,2025-08-17,C0238,AM,Norte,P009,Suporte para monitor,Acessórios,3,119.9,Loja física,Cartão de crédito,Em transporte,10.0
+PED00562,2025-08-04,C0037,PB,Nordeste,P003,Luminária de mesa,Casa,2,136.4,Site,Cartão de crédito,Cancelado,
+PED00563,2025-06-10,C0139,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Pix,Entregue,13.0
+PED00564,2025-07-31,C0339,PA,Norte,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Boleto,Entregue,8.0
+PED00565,2025-04-18,C0243,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Loja física,Cartão de crédito,Entregue,3.0
+PED00566,2025-09-26,C0317,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,449.91,Site,Cartão de crédito,Entregue,9.0
+PED00567,2025-06-08,C0321,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,1,-24.9,Site,Cartão de crédito,Cancelado,
+PED00568,2025-01-15,C0240,SC,Sul,P009,Suporte para monitor,Acessórios,1,119.9,Loja física,Pix,Entregue,16.0
+PED00569,2025-03-11,C0324,PA,Norte,P009,Suporte para monitor,Acessórios,4,125.9,Loja física,Boleto,Entregue,15.0
+PED00570,2025-09-26,C0247,MT,Centro-Oeste,P010,Organizador de mesa,Papelaria,2,41.9,Loja física,Cartão de crédito,Entregue,12.0
+PED00571,2025-06-07,C0006,PA,Norte,P002,Mesa de escritório,Móveis,1,899.9,Site,Boleto,Entregue,10.0
+PED00572,2025-05-27,C0387,GO,Centro-Oeste,P003,Luminária de mesa,Casa,1,116.91,Marketplace,Pix,Cancelado,
+PED00573,2025-05-30,C0097,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,449.91,Marketplace,Boleto,Em transporte,12.0
+PED00574,2025-05-08,C0113,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Cancelado,
+PED00575,2025-09-22,C0333,BA,Nordeste,P007,Mochila para notebook,Acessórios,2,188.9,Loja física,Boleto,Entregue,10.0
+PED00576,2025-04-07,C0057,MT,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,3,189.91,Loja física,Pix,Entregue,10.0
+PED00577,2025-05-20,C0010,PA,Norte,P010,Organizador de mesa,Papelaria,2,39.9,Site,Cartão de crédito,Entregue,11.0
+PED00578,2025-04-06,C0367,SP,Sudeste,P009,Suporte para monitor,Acessórios,4,119.9,Marketplace,Boleto,Entregue,5.0
+PED00579,2025-02-16,C0216,BA,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Pix,Entregue,11.0
+PED00580,2025-12-23,C0029,PA,Norte,P006,Teclado sem fio,Eletrônicos,2,149.9,Marketplace,Pix,Entregue,5.0
+PED00581,2025-04-03,C0007,AM,Norte,P002,Mesa de escritório,Móveis,1,899.9,Site,Boleto,Cancelado,
+PED00582,2025-08-15,C0377,DF,Centro-Oeste,P004,Garrafa térmica,Casa,1,71.91,Site,Boleto,Entregue,15.0
+PED00583,2025-08-31,C0323,RS,Sul,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Cartão de crédito,Entregue,6.0
+PED00584,2025-05-10,C0027,,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Cartão de crédito,Entregue,12.0
+PED00585,2025-11-21,C0300,BA,Nordeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Pix,Entregue,9.0
+PED00586,2025-01-22,C0191,SP,Sudeste,P004,Garrafa térmica,Casa,2,79.9,Site,Cartão de crédito,Em transporte,5.0
+PED00587,2025-02-16,C0183,AM,Norte,P003,Luminária de mesa,Casa,2,129.9,Loja física,Cartão de crédito,Entregue,2.0
+PED00588,2025-03-06,C0413,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Em transporte,12.0
+PED00589,2025-12-19,C0249,SP,Sudeste,P004,Garrafa térmica,Casa,1,75.91,Loja física,Pix,Entregue,2.0
+PED00590,2025-10-05,C0279,CE,Nordeste,P009,Suporte para monitor,Acessórios,2,113.91,Marketplace,Pix,Em transporte,6.0
+PED00591,2025-05-21,C0036,PA,Norte,P012,Webcam HD,Eletrônicos,3,241.4,Loja física,Cartão de crédito,Em transporte,6.0
+PED00592,2025-05-15,C0195,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Cartão de crédito,Entregue,17.0
+PED00593,2025-11-14,C0098,GO,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,449.91,Loja física,Boleto,Em transporte,13.0
+PED00594,2025-11-10,C0050,PR,Sul,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Boleto,Entregue,4.0
+PED00595,2025-03-08,C0249,RJ,Sudeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Cartão de crédito,Entregue,4.0
+PED00596,2025-12-03,C0026,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,524.89,Marketplace,Cartão de crédito,Em transporte,9.0
+PED00597,2025-01-07,C0041,MG,Sudeste,P010,Organizador de mesa,Papelaria,4,37.9,Marketplace,Boleto,Cancelado,
+PED00598,2025-10-13,C0316,GO,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,499.9,Marketplace,Boleto,Entregue,2.0
+PED00599,2025-06-05,C0052,MG,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Loja física,Cartão de crédito,Em transporte,4.0
+PED00600,2025-04-08,C0286,DF,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,113.91,Loja física,Boleto,Em transporte,6.0
+PED00601,2025-11-23,C0054,ES,Sudeste,P007,Mochila para notebook,Acessórios,2,179.9,Site,Cartão de crédito,Cancelado,
+PED00602,2025-09-16,C0181,DF,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,113.91,Marketplace,Boleto,Em transporte,15.0
+PED00603,2025-07-31,C0289,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Loja física,Cartão de crédito,Entregue,8.0
+PED00604,2025-07-04,C0001,PE,Nordeste,P007,Mochila para notebook,Acessórios,4,179.9,Loja física,Cartão de crédito,Cancelado,
+PED00605,2025-09-23,C0114,SP,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Site,Pix,Entregue,10.0
+PED00606,2025-10-11,C0049,PE,Nordeste,P001,Cadeira de escritório,Móveis,1,524.89,Site,Pix,Em transporte,5.0
+PED00607,2025-03-12,C0132,PR,Sul,P006,Teclado sem fio,Eletrônicos,1,157.4,Marketplace,Cartão de crédito,Entregue,8.0
+PED00608,2025-10-19,C0089,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,3,35.91,Marketplace,Boleto,Entregue,16.0
+PED00609,2025-11-01,C0041,ES,Sudeste,P012,Webcam HD,Eletrônicos,2,206.91,Site,Pix,Em transporte,13.0
+PED00610,2025-08-02,C0325,MT,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,4,134.91,Loja física,Pix,Entregue,1.0
+PED00611,2025-09-26,C0168,CE,Nordeste,P001,Cadeira de escritório,Móveis,1,524.89,Loja física,Boleto,Em transporte,5.0
+PED00612,2025-01-26,C0386,PR,Sul,P004,Garrafa térmica,Casa,2,79.9,Loja física,Boleto,Cancelado,
+PED00613,2025-04-24,C0173,MG,Sudeste,P009,Suporte para monitor,Acessórios,1,119.9,Site,Pix,Entregue,5.0
+PED00614,2025-10-08,C0257,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,35.91,Marketplace,Boleto,Cancelado,
+PED00615,2025-09-04,C0334,PR,Sul,P003,Luminária de mesa,Casa,2,129.9,Loja física,Cartão de crédito,Cancelado,
+PED00616,2025-05-05,C0058,BA,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Loja física,Pix,Entregue,3.0
+PED00617,2025-06-28,C0395,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Em transporte,1.0
+PED00618,2025-11-16,C0351,PA,Norte,P006,Teclado sem fio,Eletrônicos,1,134.91,Marketplace,Cartão de crédito,Entregue,7.0
+PED00619,2025-02-27,C0420,MG,Sudeste,P012,Webcam HD,Eletrônicos,2,218.41,Marketplace,Cartão de crédito,Em transporte,5.0
+PED00620,2025-06-06,C0379,ES,Sudeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Loja física,Cartão de crédito,Entregue,7.0
+PED00621,2025-10-08,C0299,PE,Nordeste,P004,Garrafa térmica,Casa,1,75.91,Loja física,Boleto,Entregue,13.0
+PED00622,2025-03-29,C0028,PE,Nordeste,P001,Cadeira de escritório,Móveis,1,474.9,Marketplace,Boleto,Em transporte,9.0
+PED00623,2025-07-18,C0150,MG,Sudeste,P001,Cadeira de escritório,Móveis,2,499.9,Loja física,Pix,Entregue,1.0
+PED00624,2025-09-18,C0306,DF,Centro-Oeste,P004,Garrafa térmica,Casa,4,71.91,Loja física,Cartão de crédito,Entregue,16.0
+PED00625,2025-09-14,C0127,RS,Sul,P003,Luminária de mesa,Casa,4,136.4,Loja física,Pix,Entregue,2.0
+PED00626,2025-07-21,C0182,AM,Norte,P006,Teclado sem fio,Eletrônicos,2,134.91,Loja física,Pix,Entregue,12.0
+PED00627,2025-02-01,C0144,PE,Nordeste,P004,Garrafa térmica,Casa,2,79.9,Site,Cartão de crédito,Entregue,18.0
+PED00628,2025-12-03,C0214,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Site,Boleto,Em transporte,8.0
+PED00629,2025-06-09,C0278,MT,Centro-Oeste,P003,Luminária de mesa,Casa,3,129.9,Site,Cartão de crédito,Cancelado,
+PED00630,2025-10-25,C0353,PR,Sul,P011,Caderno universitário,Papelaria,1,23.65,Loja física,Boleto,Entregue,10.0
+PED00631,2025-03-16,C0035,MT,Centro-Oeste,P003,Luminária de mesa,Casa,2,136.4,Loja física,Boleto,Entregue,11.0
+PED00632,2025-04-05,C0212,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,218.41,Marketplace,Pix,Entregue,11.0
+PED00633,2025-03-19,C0014,PE,Nordeste,P008,Mouse sem fio,Eletrônicos,2,80.91,Loja física,Boleto,Entregue,6.0
+PED00634,2025-11-02,C0353,BA,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Cartão de crédito,Entregue,3.0
+PED00635,2025-12-31,C0252,AM,Norte,P009,Suporte para monitor,Acessórios,2,113.91,Marketplace,Cartão de crédito,Cancelado,
+PED00636,2025-04-26,C0114,RS,Sul,P003,Luminária de mesa,Casa,1,116.91,Loja física,Boleto,Entregue,14.0
+PED00637,2025-02-03,C0353,RS,Sul,P004,Garrafa térmica,Casa,1,79.9,Marketplace,Pix,Em transporte,16.0
+PED00638,2025-07-27,C0369,MT,Centro-Oeste,P004,Garrafa térmica,Casa,2,83.9,Marketplace,Pix,Cancelado,
+PED00639,2025-09-24,C0266,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Pix,Entregue,8.0
+PED00640,2025-10-13,C0226,RJ,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Pix,Entregue,10.0
+PED00641,2025-03-27,C0073,PA,Norte,P005,Fone Bluetooth,Eletrônicos,1,209.9,Marketplace,Boleto,Entregue,17.0
+PED00642,2025-09-14,C0202,MG,Sudeste,P008,Mouse sem fio,Eletrônicos,1,94.4,Marketplace,Pix,Em transporte,5.0
+PED00643,2025-04-02,C0047,SP,Sudeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Marketplace,Pix,Cancelado,
+PED00644,2025-03-05,C0269,SC,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Entregue,3.0
+PED00645,2025-07-13,C0290,SC,Sul,P012,Webcam HD,Eletrônicos,2,206.91,Loja física,Cartão de crédito,Entregue,11.0
+PED00646,2025-04-02,C0158,PR,Sul,P003,Luminária de mesa,Casa,2,116.91,Marketplace,Boleto,Cancelado,
+PED00647,2025-11-17,C0319,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Marketplace,Cartão de crédito,Entregue,1.0
+PED00648,2025-09-13,C0122,AM,Norte,P008,Mouse sem fio,Eletrônicos,1,80.91,Site,Boleto,Em transporte,16.0
+PED00649,2025-08-21,C0126,AM,Norte,P011,Caderno universitário,Papelaria,1,22.41,Loja física,Pix,Em transporte,1.0
+PED00650,2025-01-26,C0075,RS,Sul,P010,Organizador de mesa,Papelaria,1,35.91,Site,Boleto,Entregue,2.0
+PED00651,2025-06-19,C0092,CE,Nordeste,P010,Organizador de mesa,Papelaria,4,35.91,Site,Boleto,Entregue,14.0
+PED00652,2025-08-22,C0394,SC,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Entregue,3.0
+PED00653,2025-02-04,C0242,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,157.4,Site,Cartão de crédito,Entregue,10.0
+PED00654,2025-06-18,C0314,PE,Nordeste,P012,Webcam HD,Eletrônicos,1,241.4,Site,Cartão de crédito,Entregue,7.0
+PED00655,2025-09-05,C0312,MG,Sudeste,P010,Organizador de mesa,Papelaria,0,41.9,Marketplace,Pix,Entregue,14.0
+PED00656,2025-03-08,C0253,GO,Centro-Oeste,P009,Suporte para monitor,Acessórios,2,119.9,Site,Boleto,Em transporte,16.0
+PED00657,2025-04-10,C0321,CE,Nordeste,P004,Garrafa térmica,Casa,1,71.91,Site,Boleto,Cancelado,
+PED00658,2025-07-31,C0006,MT,Centro-Oeste,P004,Garrafa térmica,Casa,1,79.9,Loja física,Cartão de crédito,Em transporte,7.0
+PED00659,2025-05-11,C0282,CE,Nordeste,P012,Webcam HD,Eletrônicos,2,229.9,Marketplace,Cartão de crédito,Entregue,17.0
+PED00660,2025-06-24,C0090,PB,Nordeste,P002,Mesa de escritório,Móveis,1,944.89,Site,Pix,Em transporte,1.0
+PED00661,2025-08-31,C0080,AM,Norte,P006,Teclado sem fio,Eletrônicos,2,142.41,Loja física,Pix,Cancelado,
+PED00662,2025-08-25,C0154,PB,Nordeste,P009,Suporte para monitor,Acessórios,2,119.9,Loja física,Boleto,Entregue,17.0
+PED00663,2025-10-12,C0410,PB,Nordeste,P011,Caderno universitário,Papelaria,1,23.65,Marketplace,Cartão de crédito,Em transporte,11.0
+PED00664,2025-01-16,C0293,PE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Loja física,Pix,Em transporte,6.0
+PED00665,2025-06-07,C0212,ES,Sudeste,P003,Luminária de mesa,Casa,2,129.9,Site,Pix,Entregue,9.0
+PED00666,2025-08-20,C0155,GO,Centro-Oeste,P004,Garrafa térmica,Casa,3,79.9,Site,Cartão de crédito,Entregue,17.0
+PED00667,2025-04-14,C0410,RJ,Sudeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Marketplace,Boleto,Em transporte,1.0
+PED00668,2025-06-24,C0074,RS,Sul,P003,Luminária de mesa,Casa,4,136.4,Site,Boleto,Entregue,11.0
+PED00669,2025-04-16,C0366,PR,Sul,P011,Caderno universitário,Papelaria,2,24.9,Loja física,Cartão de crédito,Cancelado,
+PED00670,2025-01-23,C0240,CE,Nordeste,P001,Cadeira de escritório,Móveis,2,524.89,Site,Cartão de crédito,Entregue,11.0
+PED00671,2025-01-12,C0103,CE,Nordeste,P009,Suporte para monitor,Acessórios,2,119.9,Site,Pix,Entregue,11.0
+PED00672,2025-08-14,C0141,PB,Nordeste,P005,Fone Bluetooth,Eletrônicos,2,199.9,Site,Cartão de crédito,Entregue,6.0
+PED00673,2025-04-16,C0073,ES,Sudeste,P010,Organizador de mesa,Papelaria,1,41.9,Loja física,Pix,Entregue,9.0
+PED00674,2025-03-29,C0228,BA,Nordeste,P010,Organizador de mesa,Papelaria,1,41.9,Site,Cartão de crédito,Entregue,18.0
+PED00675,2025-12-12,C0219,AM,Norte,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Cartão de crédito,Entregue,3.0
+PED00676,2025-11-12,C0041,PA,Norte,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Entregue,18.0
+PED00677,2025-12-24,C0241,MG,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Site,Cartão de crédito,Entregue,15.0
+PED00678,2025-07-06,C0250,PE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Site,Cartão de crédito,Entregue,15.0
+PED00679,2025-06-29,C0310,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Loja física,Cartão de crédito,Entregue,12.0
+PED00680,2025-07-27,C0333,ES,Sudeste,P009,Suporte para monitor,Acessórios,3,107.91,Site,Pix,Entregue,18.0
+PED00681,2025-07-25,C0281,PA,Norte,P009,Suporte para monitor,Acessórios,2,113.91,Site,Pix,Em transporte,8.0
+PED00682,2025-06-24,C0402,MG,Sudeste,P007,Mochila para notebook,Acessórios,1,188.9,Marketplace,Boleto,Cancelado,
+PED00683,2025-03-30,C0059,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,2,134.91,Loja física,Boleto,Em transporte,16.0
+PED00684,2025-10-12,C0208,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Boleto,Entregue,10.0
+PED00685,2025-06-17,C0419,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Boleto,Entregue,7.0
+PED00686,2025-03-17,C0200,SP,Sudeste,P011,Caderno universitário,Papelaria,2,24.9,Loja física,Boleto,Em transporte,10.0
+PED00687,2025-04-16,C0223,RS,Sul,P008,Mouse sem fio,Eletrônicos,2,89.9,Loja física,Pix,Entregue,10.0
+PED00688,2025-11-10,C0032,SP,Sudeste,P002,Mesa de escritório,Móveis,5,899.9,Marketplace,Boleto,Entregue,10.0
+PED00689,2025-12-27,C0016,SP,Sudeste,P001,Cadeira de escritório,Móveis,2,499.9,Site,Pix,Entregue,10.0
+PED00690,2025-11-17,C0196,DF,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Cancelado,
+PED00691,2025-09-01,C0185,SC,Sul,P004,Garrafa térmica,Casa,1,83.9,Marketplace,Cartão de crédito,Cancelado,
+PED00692,2025-03-10,C0337,PR,Sul,P005,Fone Bluetooth,Eletrônicos,1,-179.91,Marketplace,Cartão de crédito,Entregue,16.0
+PED00693,2025-11-25,C0320,PR,Sul,P002,Mesa de escritório,Móveis,3,899.9,Site,Pix,Em transporte,14.0
+PED00694,2025-10-10,C0096,MT,Centro-Oeste,P009,Suporte para monitor,Acessórios,3,119.9,Marketplace,Boleto,Entregue,8.0
+PED00695,2025-05-02,C0280,AM,Norte,P001,Cadeira de escritório,Móveis,2,499.9,Loja física,Pix,Cancelado,
+PED00696,2025-10-18,C0354,RJ,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Cartão de crédito,Entregue,16.0
+PED00697,2025-08-27,C0126,PE,Nordeste,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Boleto,Em transporte,3.0
+PED00698,2025-12-17,C0176,MG,Sudeste,P012,Webcam HD,Eletrônicos,2,241.4,Loja física,Cartão de crédito,Entregue,2.0
+PED00699,2025-09-20,C0181,PA,Norte,P008,Mouse sem fio,Eletrônicos,3,94.4,Marketplace,Pix,Entregue,14.0
+PED00700,2025-12-22,C0032,RJ,Sudeste,P003,Luminária de mesa,Casa,4,129.9,Loja física,Pix,Em transporte,9.0
+PED00701,2025-10-21,C0147,SC,Sul,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Cartão de crédito,Em transporte,1.0
+PED00702,2025-05-23,C0132,MG,Sudeste,P003,Luminária de mesa,Casa,1,136.4,Site,Boleto,Entregue,9.0
+PED00703,2025-10-30,C0134,SC,Sul,P002,Mesa de escritório,Móveis,2,899.9,Loja física,Cartão de crédito,Entregue,6.0
+PED00704,2025-09-28,C0305,SC,Sul,P008,Mouse sem fio,Eletrônicos,3,89.9,Site,Pix,Entregue,5.0
+PED00705,2025-05-02,C0028,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,2,170.91,Loja física,Pix,Entregue,12.0
+PED00706,2025-03-27,C0383,RJ,Sudeste,P002,Mesa de escritório,Móveis,1,899.9,Loja física,Cartão de crédito,Entregue,16.0
+PED00707,2025-08-31,C0007,DF,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,188.9,Marketplace,Pix,Cancelado,
+PED00708,2025-09-29,C0327,PB,Nordeste,P007,Mochila para notebook,Acessórios,2,161.91,Marketplace,Pix,Entregue,18.0
+PED00709,2025-06-21,C0237,PE,Nordeste,P010,Organizador de mesa,Papelaria,1,35.91,Loja física,Boleto,Entregue,13.0
+PED00710,2025-09-24,C0006,RS,Sul,P004,Garrafa térmica,Casa,1,75.91,Loja física,Cartão de crédito,Entregue,18.0
+PED00711,2025-07-30,C0180,SP,Sudeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Boleto,Cancelado,
+PED00712,2025-04-09,C0305,PE,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,209.9,Loja física,Cartão de crédito,Entregue,2.0
+PED00713,2025-12-29,C0193,ES,Sudeste,P010,Organizador de mesa,Papelaria,4,35.91,Loja física,Boleto,Em transporte,5.0
+PED00714,2025-02-26,C0339,SC,Sul,P010,Organizador de mesa,Papelaria,2,39.9,Site,Boleto,Entregue,15.0
+PED00715,2025-08-07,C0400,PE,Nordeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Site,Pix,Entregue,6.0
+PED00716,2025-07-18,C0092,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,449.91,Marketplace,Cartão de crédito,Entregue,9.0
+PED00717,2025-11-09,C0277,RS,Sul,P008,Mouse sem fio,Eletrônicos,1,89.9,Marketplace,Cartão de crédito,Entregue,5.0
+PED00718,2025-08-15,C0037,ES,Sudeste,P010,Organizador de mesa,Papelaria,2,35.91,Loja física,Boleto,Entregue,3.0
+PED00719,2025-01-10,C0341,PA,Norte,P005,Fone Bluetooth,Eletrônicos,3,189.91,Marketplace,Pix,Entregue,2.0
+PED00720,2025-07-20,C0245,PB,Nordeste,P003,Luminária de mesa,Casa,2,136.4,Marketplace,Pix,Cancelado,
+PED00721,2025-10-04,C0063,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Boleto,Cancelado,
+PED00722,2025-12-16,C0274,PB,Nordeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Marketplace,Cartão de crédito,Entregue,12.0
+PED00723,2025-11-28,C0339,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,1,94.4,Site,Pix,Entregue,13.0
+PED00724,2025-02-24,C0044,DF,Centro-Oeste,P012,Webcam HD,Eletrônicos,2,229.9,Loja física,Pix,Cancelado,
+PED00725,2025-03-13,C0251,RS,Sul,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Cartão de crédito,Em transporte,8.0
+PED00726,2025-09-13,C0174,CE,Nordeste,P009,Suporte para monitor,Acessórios,1,119.9,Site,Pix,Entregue,2.0
+PED00727,2025-07-27,C0348,RJ,Sudeste,P012,Webcam HD,Eletrônicos,1,241.4,Loja física,Cartão de crédito,Cancelado,
+PED00728,2025-02-06,C0335,BA,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Site,Pix,Cancelado,
+PED00729,2025-05-05,C0324,RJ,Sudeste,P010,Organizador de mesa,Papelaria,2,37.9,Site,Pix,Entregue,6.0
+PED00730,2025-11-09,C0059,PA,Norte,P002,Mesa de escritório,Móveis,1,944.89,Marketplace,Boleto,Entregue,4.0
+PED00731,2025-02-02,C0167,BA,Nordeste,P010,Organizador de mesa,Papelaria,3,39.9,Site,Boleto,Entregue,13.0
+PED00732,2025-06-14,C0172,PR,Sul,P010,Organizador de mesa,Papelaria,3,37.9,Site,Cartão de crédito,Entregue,6.0
+PED00733,2025-08-01,C0225,PR,Sul,P005,Fone Bluetooth,Eletrônicos,1,199.9,Site,Boleto,Em transporte,6.0
+PED00734,2025-02-21,C0399,PR,Sul,P001,Cadeira de escritório,Móveis,2,524.89,Site,Cartão de crédito,Cancelado,
+PED00735,2025-01-04,C0214,MG,Sudeste,P008,Mouse sem fio,Eletrônicos,1,80.91,Loja física,Pix,Em transporte,10.0
+PED00736,2025-04-16,C0211,PR,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Site,Cartão de crédito,Em transporte,15.0
+PED00737,2025-11-02,C0322,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Pix,Em transporte,3.0
+PED00738,2025-10-13,C0317,SP,Sudeste,P007,Mochila para notebook,Acessórios,1,161.91,Marketplace,Boleto,Em transporte,4.0
+PED00739,2025-08-26,C0100,BA,Nordeste,P009,Suporte para monitor,Acessórios,2,113.91,Site,Cartão de crédito,Entregue,2.0
+PED00740,2025-09-12,C0146,AM,Norte,P011,Caderno universitário,Papelaria,1,22.41,Site,Pix,Entregue,12.0
+PED00741,2025-11-12,C0380,PB,Nordeste,P005,Fone Bluetooth,Eletrônicos,3,199.9,Site,Boleto,Entregue,4.0
+PED00742,2025-01-15,C0370,SC,Sul,P003,Luminária de mesa,Casa,1,116.91,Marketplace,Boleto,Entregue,8.0
+PED00743,2025-08-03,C0167,PB,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Cartão de crédito,Entregue,4.0
+PED00744,2025-04-13,C0300,MT,Centro-Oeste,P004,Garrafa térmica,Casa,1,75.91,Marketplace,Cartão de crédito,Entregue,16.0
+PED00745,2025-04-21,C0192,PR,Sul,P007,Mochila para notebook,Acessórios,4,179.9,Site,Pix,Entregue,13.0
+PED00746,2025-11-20,C0066,RS,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Site,Boleto,Entregue,11.0
+PED00747,2025-05-24,C0215,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Pix,Cancelado,
+PED00748,2025-11-06,C0118,CE,Nordeste,P004,Garrafa térmica,Casa,1,83.9,Site,Pix,Entregue,18.0
+PED00749,2025-04-21,C0374,AM,Norte,P009,Suporte para monitor,Acessórios,2,119.9,Marketplace,Boleto,Entregue,1.0
+PED00750,2025-06-17,C0294,BA,Nordeste,P004,Garrafa térmica,Casa,1,75.91,Site,Pix,Em transporte,5.0
+PED00751,2025-08-29,C0272,RJ,Sudeste,P001,Cadeira de escritório,Móveis,2,524.89,Marketplace,Pix,Entregue,14.0
+PED00752,2025-08-20,C0355,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Loja física,Pix,Em transporte,1.0
+PED00753,2025-07-03,C0343,PR,Sul,P004,Garrafa térmica,Casa,1,71.91,Marketplace,Cartão de crédito,Entregue,16.0
+PED00754,2025-10-20,C0238,PA,Norte,P012,Webcam HD,Eletrônicos,2,206.91,Site,Boleto,Cancelado,
+PED00755,2025-07-09,C0354,SC,Sul,P007,Mochila para notebook,Acessórios,2,161.91,Marketplace,Boleto,Entregue,13.0
+PED00756,2025-08-07,C0404,CE,Nordeste,P001,Cadeira de escritório,Móveis,2,524.89,Loja física,Cartão de crédito,Em transporte,7.0
+PED00757,2025-01-29,C0197,PB,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Pix,Entregue,4.0
+PED00758,2025-07-07,C0364,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,41.9,Site,Cartão de crédito,Entregue,18.0
+PED00759,2025-10-04,C0386,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Loja física,Cartão de crédito,Em transporte,7.0
+PED00760,2025-05-17,C0033,GO,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Pix,Entregue,2.0
+PED00761,2025-09-14,C0364,AM,Norte,P008,Mouse sem fio,Eletrônicos,1,80.91,Loja física,Boleto,Cancelado,
+PED00762,2025-08-20,C0045,CE,Nordeste,P009,Suporte para monitor,Acessórios,2,107.91,Site,Pix,Entregue,15.0
+PED00763,2025-02-09,C0255,CE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Site,Cartão de crédito,Entregue,5.0
+PED00764,2025-05-31,C0178,SP,Sudeste,P009,Suporte para monitor,Acessórios,1,125.9,Marketplace,Pix,Entregue,16.0
+PED00765,2025-05-30,C0331,SP,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Pix,Entregue,17.0
+PED00766,2025-12-02,C0304,PB,Nordeste,P010,Organizador de mesa,Papelaria,2,39.9,Loja física,Boleto,Cancelado,
+PED00767,2025-08-23,C0405,PA,Norte,P009,Suporte para monitor,Acessórios,1,113.91,Marketplace,Cartão de crédito,Entregue,6.0
+PED00768,2025-05-28,C0146,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,2,80.91,Marketplace,Cartão de crédito,Entregue,12.0
+PED00769,2025-12-31,C0083,SC,Sul,P010,Organizador de mesa,Papelaria,1,37.9,Site,Cartão de crédito,Entregue,5.0
+PED00770,2025-10-22,C0106,PB,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Boleto,Entregue,6.0
+PED00771,2025-06-26,C0274,PB,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Cartão de crédito,Em transporte,6.0
+PED00772,2025-09-13,C0003,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,499.9,Loja física,Boleto,Entregue,5.0
+PED00773,2025-11-28,C0410,PB,Nordeste,P009,Suporte para monitor,Acessórios,2,119.9,Loja física,Boleto,Entregue,5.0
+PED00774,2025-12-19,C0348,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Loja física,Cartão de crédito,Entregue,5.0
+PED00775,2025-07-25,C0183,SP,Sudeste,P005,Fone Bluetooth,Eletrônicos,2,189.91,Site,Pix,Cancelado,
+PED00776,2025-10-26,C0043,RS,Sul,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Pix,Entregue,1.0
+PED00777,2025-09-20,C0029,MG,Sudeste,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Pix,Entregue,17.0
+PED00778,2025-08-07,C0177,PR,Sul,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Pix,Entregue,10.0
+PED00779,2025-04-21,C0412,MG,Sudeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Marketplace,Pix,Cancelado,
+PED00780,2025-08-01,C0074,MT,Centro-Oeste,P003,Luminária de mesa,Casa,1,136.4,Site,Pix,Em transporte,3.0
+PED00781,2025-02-03,C0046,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,4,94.4,Site,Pix,Cancelado,
+PED00782,2025-08-01,C0103,PE,Nordeste,P011,Caderno universitário,Papelaria,1,24.9,Site,Pix,Em transporte,5.0
+PED00783,2025-01-22,C0253,AM,Norte,P005,Fone Bluetooth,Eletrônicos,3,199.9,Loja física,Boleto,Em transporte,10.0
+PED00784,2025-01-14,C0328,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,2,85.41,Loja física,Pix,Entregue,10.0
+PED00785,2025-08-02,C0392,CE,Nordeste,P002,Mesa de escritório,Móveis,1,854.9,Marketplace,Pix,Entregue,4.0
+PED00786,2025-10-25,C0356,GO,Centro-Oeste,P002,Mesa de escritório,Móveis,1,899.9,Site,Pix,Entregue,16.0
+PED00787,2025-05-13,C0237,SP,Sudeste,P009,Suporte para monitor,Acessórios,1,107.91,Loja física,Cartão de crédito,Entregue,11.0
+PED00788,2025-01-28,C0149,SC,Sul,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Boleto,Entregue,2.0
+PED00789,2025-09-21,C0279,MG,Sudeste,P011,Caderno universitário,Papelaria,1,23.65,Marketplace,Pix,Entregue,6.0
+PED00790,2025-05-19,C0297,CE,Nordeste,P011,Caderno universitário,Papelaria,2,24.9,Marketplace,Cartão de crédito,Entregue,18.0
+PED00791,2025-09-23,C0175,PR,Sul,P001,Cadeira de escritório,Móveis,1,499.9,Site,Cartão de crédito,Cancelado,
+PED00792,2025-09-15,C0273,PR,Sul,P004,Garrafa térmica,Casa,1,75.91,Loja física,Boleto,Em transporte,17.0
+PED00793,2025-08-02,C0009,ES,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Pix,Entregue,5.0
+PED00794,2025-03-13,C0089,GO,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,3,209.9,Loja física,Pix,Em transporte,11.0
+PED00795,2025-04-24,C0065,ES,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Cartão de crédito,Entregue,10.0
+PED00796,2025-12-20,C0397,MT,Centro-Oeste,P002,Mesa de escritório,Móveis,2,809.91,Marketplace,Pix,Entregue,1.0
+PED00797,2025-02-25,C0241,RS,Sul,P001,Cadeira de escritório,Móveis,1,524.89,Site,Pix,Em transporte,2.0
+PED00798,2025-06-04,C0301,MG,Sudeste,P001,Cadeira de escritório,Móveis,2,449.91,Site,Cartão de crédito,Entregue,7.0
+PED00799,2025-01-15,C0181,GO,Centro-Oeste,P011,Caderno universitário,Papelaria,1,24.9,Site,Boleto,Em transporte,12.0
+PED00800,2025-09-16,C0271,BA,Nordeste,P012,Webcam HD,Eletrônicos,2,206.91,Site,Boleto,Em transporte,1.0
+PED00801,2025-03-29,C0110,CE,Nordeste,P004,Garrafa térmica,Casa,3,83.9,Loja física,Boleto,Entregue,4.0
+PED00802,2025-12-24,C0182,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Marketplace,Pix,Entregue,6.0
+PED00803,2025-07-28,C0057,BA,Nordeste,P004,Garrafa térmica,Casa,1,79.9,Loja física,Cartão de crédito,Entregue,15.0
+PED00804,2025-12-27,C0253,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,1,80.91,Site,Pix,Entregue,11.0
+PED00805,2025-11-04,C0209,PA,Norte,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Entregue,18.0
+PED00806,2025-09-01,C0346,MG,Sudeste,P004,Garrafa térmica,Casa,4,79.9,Marketplace,Boleto,Entregue,1.0
+PED00807,2025-08-13,C0203,DF,Centro-Oeste,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Boleto,Entregue,5.0
+PED00808,2025-03-28,C0305,ES,Sudeste,P010,Organizador de mesa,Papelaria,1,37.9,Marketplace,Cartão de crédito,Entregue,7.0
+PED00809,2025-09-13,C0388,MT,Centro-Oeste,P004,Garrafa térmica,Casa,1,83.9,Loja física,Pix,Em transporte,9.0
+PED00810,2025-12-08,C0262,AM,Norte,P006,Teclado sem fio,Eletrônicos,2,149.9,Marketplace,Cartão de crédito,Cancelado,
+PED00811,2025-03-04,C0016,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Boleto,Entregue,5.0
+PED00812,2025-09-13,C0310,MG,Sudeste,P001,Cadeira de escritório,Móveis,2,474.9,Loja física,Pix,Cancelado,
+PED00813,2025-11-15,C0406,CE,Nordeste,P003,Luminária de mesa,Casa,2,116.91,Marketplace,Cartão de crédito,Em transporte,16.0
+PED00814,2025-09-09,C0280,AM,Norte,P005,Fone Bluetooth,Eletrônicos,1,209.9,Site,Cartão de crédito,Entregue,18.0
+PED00815,2025-07-16,C0236,ES,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Site,Cartão de crédito,Cancelado,
+PED00816,2025-12-28,C0367,CE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Pix,Entregue,10.0
+PED00817,2025-12-04,C0244,AM,Norte,P002,Mesa de escritório,Móveis,2,944.89,Loja física,Cartão de crédito,Em transporte,16.0
+PED00818,2025-07-20,C0316,RJ,Sudeste,P009,Suporte para monitor,Acessórios,1,125.9,Loja física,Pix,Cancelado,
+PED00819,2025-02-01,C0179,PB,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Loja física,Boleto,Entregue,12.0
+PED00820,2025-07-14,C0180,PB,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Site,Boleto,Entregue,14.0
+PED00821,2025-05-01,C0157,BA,Nordeste,P004,Garrafa térmica,Casa,2,83.9,Site,Pix,Entregue,3.0
+PED00822,2025-10-03,C0291,SP,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Loja física,Pix,Cancelado,
+PED00823,2025-12-23,C0293,SP,Sudeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Pix,Entregue,13.0
+PED00824,2025-09-08,C0258,ES,Sudeste,P010,Organizador de mesa,Papelaria,1,37.9,Loja física,Pix,Entregue,16.0
+PED00825,2025-07-06,C0326,CE,Nordeste,P003,Luminária de mesa,Casa,4,123.41,Site,Boleto,Cancelado,
+PED00826,2025-05-16,C0412,CE,Nordeste,P004,Garrafa térmica,Casa,1,83.9,Site,Boleto,Cancelado,
+PED00827,2025-10-24,C0291,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Entregue,3.0
+PED00828,2025-06-27,C0222,RS,Sul,P007,Mochila para notebook,Acessórios,2,179.9,Loja física,Boleto,Em transporte,10.0
+PED00829,2025-08-01,C0344,RS,Sul,P006,Teclado sem fio,Eletrônicos,1,157.4,Loja física,Cartão de crédito,Em transporte,15.0
+PED00830,2025-10-23,C0415,SC,Sul,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Pix,Entregue,18.0
+PED00831,2025-09-25,C0078,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Boleto,Entregue,8.0
+PED00832,2025-07-30,C0137,MT,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,1,179.91,Marketplace,Boleto,Entregue,14.0
+PED00833,2025-12-18,C0077,PE,Nordeste,P003,Luminária de mesa,Casa,2,129.9,Site,Cartão de crédito,Entregue,4.0
+PED00834,2025-08-26,C0332,CE,Nordeste,P004,Garrafa térmica,Casa,1,79.9,Site,Cartão de crédito,Cancelado,
+PED00835,2025-03-11,C0330,PE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Site,Boleto,Em transporte,6.0
+PED00836,2025-01-29,C0033,SP,Sudeste,P008,Mouse sem fio,Eletrônicos,3,80.91,Marketplace,Pix,Entregue,10.0
+PED00837,2025-07-23,C0293,MG,Sudeste,P011,Caderno universitário,Papelaria,4,23.65,Loja física,Boleto,Entregue,4.0
+PED00838,2025-09-12,C0396,PE,Nordeste,P002,Mesa de escritório,Móveis,3,854.9,Marketplace,Pix,Em transporte,4.0
+PED00839,2025-05-01,C0090,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,4,37.9,Site,Pix,Entregue,4.0
+PED00840,2025-05-11,C0274,MT,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,3,80.91,Marketplace,Boleto,Cancelado,
+PED00841,2025-10-07,C0186,PB,Nordeste,P002,Mesa de escritório,Móveis,1,854.9,Marketplace,Boleto,Entregue,5.0
+PED00842,2025-01-11,C0354,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,2,157.4,Loja física,Cartão de crédito,Entregue,2.0
+PED00843,2025-06-08,C0122,DF,Centro-Oeste,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Entregue,18.0
+PED00844,2025-05-11,C0083,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,474.9,Marketplace,Boleto,Entregue,7.0
+PED00845,2025-01-18,C0242,MT,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Loja física,Pix,Cancelado,
+PED00846,2025-02-21,C0181,MT,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Marketplace,Boleto,Em transporte,3.0
+PED00847,2025-08-21,C0406,PB,Nordeste,P012,Webcam HD,Eletrônicos,2,206.91,Loja física,Cartão de crédito,Entregue,15.0
+PED00848,2025-04-13,C0057,DF,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,499.9,Site,Cartão de crédito,Em transporte,3.0
+PED00849,2025-11-01,C0245,PR,Sul,P009,Suporte para monitor,Acessórios,2,119.9,Loja física,Cartão de crédito,Cancelado,
+PED00850,2025-12-18,C0044,SC,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Entregue,7.0
+PED00851,2025-07-13,C0012,DF,Centro-Oeste,P003,Luminária de mesa,Casa,4,136.4,Loja física,Boleto,Entregue,1.0
+PED00852,2025-02-15,C0026,BA,Nordeste,P010,Organizador de mesa,Papelaria,4,37.9,Marketplace,Boleto,Entregue,6.0
+PED00853,2025-03-18,C0008,PE,Nordeste,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Boleto,Entregue,4.0
+PED00854,2025-12-11,C0417,PA,Norte,P007,Mochila para notebook,Acessórios,1,170.91,Marketplace,Pix,Entregue,7.0
+PED00855,2025-07-15,C0145,AM,Norte,P012,Webcam HD,Eletrônicos,1,218.41,Loja física,Boleto,Em transporte,7.0
+PED00856,2025-04-03,C0135,MT,Centro-Oeste,P004,Garrafa térmica,Casa,1,75.91,Site,Boleto,Entregue,10.0
+PED00857,2025-07-09,C0241,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Site,Pix,Entregue,1.0
+PED00858,2025-12-18,C0377,DF,Centro-Oeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Cancelado,
+PED00859,2025-10-13,C0182,ES,Sudeste,P002,Mesa de escritório,Móveis,1,899.9,Loja física,Boleto,Entregue,16.0
+PED00860,2025-01-03,C0155,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,41.9,Marketplace,Boleto,Cancelado,
+PED00861,2025-10-14,C0258,PR,Sul,P006,Teclado sem fio,Eletrônicos,1,142.41,Marketplace,Pix,Entregue,6.0
+PED00862,2025-02-15,C0073,PR,Sul,P008,Mouse sem fio,Eletrônicos,1,94.4,Marketplace,Cartão de crédito,Cancelado,
+PED00863,2025-03-07,C0145,RJ,Sudeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Boleto,Entregue,14.0
+PED00864,2025-08-12,C0392,PB,Nordeste,P005,Fone Bluetooth,Eletrônicos,3,199.9,Site,Boleto,Cancelado,
+PED00865,2025-01-28,C0019,PA,Norte,P011,Caderno universitário,Papelaria,1,22.41,Marketplace,Pix,Entregue,6.0
+PED00866,2025-08-12,C0183,PA,Norte,P003,Luminária de mesa,Casa,1,129.9,Loja física,Boleto,Entregue,15.0
+PED00867,2025-09-10,C0048,PA,Norte,P008,Mouse sem fio,Eletrônicos,1,85.41,Site,Pix,Entregue,12.0
+PED00868,2025-09-18,C0299,SC,Sul,P003,Luminária de mesa,Casa,3,136.4,Site,Boleto,Em transporte,7.0
+PED00869,2025-08-02,C0347,SC,Sul,P010,Organizador de mesa,Papelaria,4,37.9,Site,Pix,Cancelado,
+PED00870,2025-12-15,C0192,CE,Nordeste,P001,Cadeira de escritório,Móveis,5,449.91,Loja física,Cartão de crédito,Cancelado,
+PED00871,2025-01-15,C0322,PR,Sul,P006,Teclado sem fio,Eletrônicos,1,149.9,Marketplace,Boleto,Cancelado,
+PED00872,2025-06-18,C0167,SP,Sudeste,P011,Caderno universitário,Papelaria,4,26.14,Loja física,Boleto,Cancelado,
+PED00873,2025-04-19,C0381,PR,Sul,P010,Organizador de mesa,Papelaria,3,39.9,Site,Boleto,Entregue,2.0
+PED00874,2025-02-17,C0046,DF,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,37.9,Site,Cartão de crédito,Entregue,13.0
+PED00875,2025-07-26,C0252,DF,Centro-Oeste,P003,Luminária de mesa,Casa,1,123.41,Marketplace,Boleto,Entregue,10.0
+PED00876,2025-07-03,C0251,PR,Sul,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Pix,Em transporte,7.0
+PED00877,2025-10-16,C0416,PE,Nordeste,P008,Mouse sem fio,Eletrônicos,2,80.91,Marketplace,Boleto,Cancelado,
+PED00878,2025-11-19,C0238,MT,Centro-Oeste,P003,Luminária de mesa,Casa,1,116.91,Loja física,Cartão de crédito,Em transporte,11.0
+PED00879,2025-09-11,C0240,PR,Sul,P011,Caderno universitário,Papelaria,1,26.14,Marketplace,Cartão de crédito,Entregue,10.0
+PED00880,2025-03-18,C0219,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,5,89.9,Marketplace,Boleto,Entregue,17.0
+PED00881,2025-01-24,C0212,MG,Sudeste,P001,Cadeira de escritório,Móveis,1,524.89,Site,Pix,Cancelado,
+PED00882,2025-07-01,C0059,PE,Nordeste,P011,Caderno universitário,Papelaria,1,22.41,Loja física,Boleto,Em transporte,1.0
+PED00883,2025-04-04,C0361,SC,Sul,P008,Mouse sem fio,Eletrônicos,3,80.91,Marketplace,Pix,Entregue,14.0
+PED00884,2025-12-10,C0109,PA,Norte,P010,Organizador de mesa,Papelaria,1,39.9,Site,Cartão de crédito,Entregue,6.0
+PED00885,2025-12-11,C0203,PE,Nordeste,P012,Webcam HD,Eletrônicos,1,241.4,Site,Cartão de crédito,Entregue,1.0
+PED00886,2025-08-24,C0156,AM,Norte,P003,Luminária de mesa,Casa,2,136.4,Loja física,Boleto,Cancelado,
+PED00887,2025-06-04,C0058,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Site,Boleto,Entregue,7.0
+PED00888,2025-04-18,C0321,SP,Sudeste,P004,Garrafa térmica,Casa,1,75.91,Loja física,Cartão de crédito,Entregue,14.0
+PED00889,2025-08-26,C0086,CE,Nordeste,P002,Mesa de escritório,Móveis,1,899.9,Site,Boleto,Entregue,4.0
+PED00890,2025-09-06,C0104,PA,Norte,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Boleto,Em transporte,8.0
+PED00891,2025-06-20,C0254,RJ,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Boleto,Cancelado,
+PED00892,2025-01-19,C0119,CE,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Cartão de crédito,Em transporte,16.0
+PED00893,2025-08-05,C0332,SP,Sudeste,P009,Suporte para monitor,Acessórios,2,125.9,Marketplace,Pix,Entregue,9.0
+PED00894,2025-11-15,C0358,AM,Norte,P002,Mesa de escritório,Móveis,4,899.9,Marketplace,Cartão de crédito,Cancelado,
+PED00895,2025-04-09,C0113,CE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Loja física,Boleto,Entregue,17.0
+PED00896,2025-03-09,C0345,PA,Norte,P006,Teclado sem fio,Eletrônicos,3,149.9,Loja física,Boleto,Cancelado,
+PED00897,2025-03-24,C0067,AM,Norte,P006,Teclado sem fio,Eletrônicos,2,149.9,Site,Cartão de crédito,Entregue,16.0
+PED00898,2025-02-21,C0108,AM,Norte,P003,Luminária de mesa,Casa,2,129.9,Loja física,Cartão de crédito,Entregue,8.0
+PED00899,2025-05-14,C0017,GO,Centro-Oeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Pix,Entregue,17.0
+PED00900,2025-11-13,C0133,ES,Sudeste,P007,Mochila para notebook,Acessórios,1,188.9,Marketplace,Pix,Entregue,16.0
+PED00901,2025-03-19,C0362,PE,Nordeste,P001,Cadeira de escritório,Móveis,3,524.89,Site,Pix,Em transporte,4.0
+PED00902,2025-02-24,C0022,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,2,94.4,Loja física,Cartão de crédito,Entregue,18.0
+PED00903,2025-04-16,C0391,ES,Sudeste,P003,Luminária de mesa,Casa,3,123.41,Loja física,Pix,Entregue,15.0
+PED00904,2025-03-20,C0104,ES,Sudeste,P012,Webcam HD,Eletrônicos,2,229.9,Marketplace,Pix,Entregue,4.0
+PED00905,2025-08-31,C0137,BA,Nordeste,P001,Cadeira de escritório,Móveis,1,524.89,Marketplace,Boleto,Entregue,3.0
+PED00906,2025-11-19,C0404,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,2,170.91,Site,Cartão de crédito,Em transporte,14.0
+PED00907,2025-07-29,C0227,MT,Centro-Oeste,P007,Mochila para notebook,Acessórios,3,188.9,Site,Cartão de crédito,Entregue,1.0
+PED00908,2025-02-13,C0032,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Cartão de crédito,Entregue,14.0
+PED00909,2025-10-22,C0206,PR,Sul,P011,Caderno universitário,Papelaria,1,26.14,Loja física,Boleto,Entregue,14.0
+PED00910,2025-06-10,C0313,CE,Nordeste,P009,Suporte para monitor,Acessórios,3,107.91,Site,Boleto,Entregue,17.0
+PED00911,2025-11-26,C0358,PA,Norte,P007,Mochila para notebook,Acessórios,1,188.9,Marketplace,Boleto,Em transporte,15.0
+PED00912,2025-06-04,C0372,RS,Sul,P007,Mochila para notebook,Acessórios,1,188.9,Loja física,Boleto,Entregue,13.0
+PED00913,2025-04-20,C0175,CE,Nordeste,P003,Luminária de mesa,Casa,1,136.4,Loja física,Cartão de crédito,Entregue,17.0
+PED00914,2025-10-04,C0259,SP,Sudeste,P001,Cadeira de escritório,Móveis,2,474.9,Site,Boleto,Entregue,14.0
+PED00915,2025-05-13,C0388,GO,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,499.9,Loja física,Cartão de crédito,Entregue,2.0
+PED00916,2025-10-21,C0413,CE,Nordeste,P008,Mouse sem fio,Eletrônicos,2,89.9,Loja física,Boleto,Entregue,8.0
+PED00917,2025-06-29,C0267,BA,Nordeste,P010,Organizador de mesa,Papelaria,0,41.9,Loja física,Cartão de crédito,Entregue,13.0
+PED00918,2025-09-22,C0051,PB,Nordeste,P002,Mesa de escritório,Móveis,2,899.9,Site,Boleto,Cancelado,
+PED00919,2025-02-11,C0110,MT,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Entregue,16.0
+PED00920,2025-10-29,C0326,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Marketplace,Pix,Entregue,16.0
+PED00921,2025-08-02,C0249,AM,Norte,P012,Webcam HD,Eletrônicos,3,218.41,Loja física,Pix,Em transporte,5.0
+PED00922,2025-12-22,C0287,ES,Sudeste,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Cartão de crédito,Entregue,6.0
+PED00923,2025-02-26,C0268,MT,Centro-Oeste,P010,Organizador de mesa,Papelaria,1,41.9,Site,Cartão de crédito,Entregue,2.0
+PED00924,2025-07-11,C0073,CE,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Loja física,Pix,Entregue,5.0
+PED00925,2025-05-26,C0281,CE,Nordeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Cartão de crédito,Entregue,4.0
+PED00926,2025-09-04,C0173,MT,Centro-Oeste,P001,Cadeira de escritório,Móveis,2,524.89,Marketplace,Pix,Cancelado,
+PED00927,2025-03-12,C0342,PR,Sul,P012,Webcam HD,Eletrônicos,1,229.9,Marketplace,Cartão de crédito,Cancelado,
+PED00928,2025-02-15,C0199,PB,Nordeste,P012,Webcam HD,Eletrônicos,2,241.4,Site,Pix,Cancelado,
+PED00929,2025-12-10,C0363,RJ,Sudeste,P006,Teclado sem fio,Eletrônicos,3,149.9,Site,Boleto,Entregue,6.0
+PED00930,2025-10-15,C0317,CE,Nordeste,P011,Caderno universitário,Papelaria,2,26.14,Loja física,Boleto,Entregue,7.0
+PED00931,2025-09-01,C0093,RS,Sul,P001,Cadeira de escritório,Móveis,1,449.91,Site,Pix,Entregue,18.0
+PED00932,2025-12-28,C0044,BA,Nordeste,P004,Garrafa térmica,Casa,3,83.9,Loja física,Boleto,Cancelado,
+PED00933,2025-10-29,C0093,DF,Centro-Oeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Marketplace,Cartão de crédito,Entregue,14.0
+PED00934,2025-07-15,C0087,PB,Nordeste,P009,Suporte para monitor,Acessórios,1,107.91,Marketplace,Cartão de crédito,Entregue,18.0
+PED00935,2025-02-15,C0315,PE,Nordeste,P003,Luminária de mesa,Casa,1,129.9,Marketplace,Cartão de crédito,Entregue,2.0
+PED00936,2025-06-02,C0166,RJ,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Marketplace,Pix,Entregue,14.0
+PED00937,2025-04-14,C0253,RJ,Sudeste,P002,Mesa de escritório,Móveis,1,944.89,Loja física,Boleto,Em transporte,8.0
+PED00938,2025-05-18,C0034,ES,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Cartão de crédito,Em transporte,14.0
+PED00939,2025-01-10,C0391,BA,Nordeste,P007,Mochila para notebook,Acessórios,1,188.9,Loja física,Boleto,Entregue,8.0
+PED00940,2025-10-18,C0401,CE,Nordeste,P003,Luminária de mesa,Casa,1,116.91,Site,Pix,Em transporte,7.0
+PED00941,2025-05-06,C0022,SC,Sul,P009,Suporte para monitor,Acessórios,1,119.9,Site,Pix,Em transporte,15.0
+PED00942,2025-12-01,C0140,CE,Nordeste,P010,Organizador de mesa,Papelaria,4,35.91,Loja física,Pix,Entregue,16.0
+PED00943,2025-06-29,C0145,DF,Centro-Oeste,P011,Caderno universitário,Papelaria,3,23.65,Site,Cartão de crédito,Em transporte,17.0
+PED00944,2025-06-03,C0144,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,206.91,Marketplace,Cartão de crédito,Entregue,18.0
+PED00945,2025-12-16,C0140,PB,Nordeste,P010,Organizador de mesa,Papelaria,4,39.9,Site,Boleto,Cancelado,
+PED00946,2025-04-18,C0355,PB,Nordeste,P006,Teclado sem fio,Eletrônicos,1,157.4,Site,Boleto,Entregue,1.0
+PED00947,2025-01-03,C0285,AM,Norte,P001,Cadeira de escritório,Móveis,3,474.9,Loja física,Boleto,Cancelado,
+PED00948,2025-10-03,C0418,DF,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,1,80.91,Loja física,Pix,Em transporte,1.0
+PED00949,2025-06-30,C0199,ES,Sudeste,P011,Caderno universitário,Papelaria,4,24.9,Site,Boleto,Em transporte,12.0
+PED00950,2025-08-25,C0005,ES,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Boleto,Cancelado,
+PED00951,2025-12-15,C0418,PE,Nordeste,P001,Cadeira de escritório,Móveis,4,499.9,Loja física,Boleto,Entregue,3.0
+PED00952,2025-04-30,C0253,BA,Nordeste,P005,Fone Bluetooth,Eletrônicos,5,199.9,Loja física,Boleto,Entregue,9.0
+PED00953,2025-01-04,C0292,RS,Sul,P010,Organizador de mesa,Papelaria,1,39.9,Loja física,Pix,Entregue,9.0
+PED00954,2025-12-04,C0034,RS,Sul,P003,Luminária de mesa,Casa,2,136.4,Loja física,Cartão de crédito,Em transporte,6.0
+PED00955,2025-03-07,C0374,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Cartão de crédito,Entregue,17.0
+PED00956,2025-12-21,C0233,SP,Sudeste,P011,Caderno universitário,Papelaria,2,26.14,Site,Pix,Entregue,18.0
+PED00957,2025-06-15,C0349,RJ,Sudeste,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Pix,Entregue,4.0
+PED00958,2025-09-22,C0216,GO,Centro-Oeste,P008,Mouse sem fio,Eletrônicos,2,85.41,Loja física,Pix,Entregue,9.0
+PED00959,2025-07-20,C0378,SP,Sudeste,P006,Teclado sem fio,Eletrônicos,1,134.91,Site,Boleto,Em transporte,1.0
+PED00960,2025-05-08,C0321,MG,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Loja física,Cartão de crédito,Entregue,3.0
+PED00961,2025-08-10,C0127,AM,Norte,P001,Cadeira de escritório,Móveis,3,524.89,Site,Pix,Entregue,9.0
+PED00962,2025-01-28,C0398,PB,Nordeste,P004,Garrafa térmica,Casa,3,83.9,Loja física,Boleto,Entregue,3.0
+PED00963,2025-11-17,C0018,ES,Sudeste,P008,Mouse sem fio,Eletrônicos,1,80.91,Marketplace,Pix,Entregue,2.0
+PED00964,2025-03-07,C0313,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,229.9,Loja física,Pix,Entregue,10.0
+PED00965,2025-12-13,C0206,ES,Sudeste,P002,Mesa de escritório,Móveis,1,809.91,Site,Boleto,Entregue,13.0
+PED00966,2025-11-03,C0197,BA,Nordeste,P007,Mochila para notebook,Acessórios,2,188.9,Marketplace,Pix,Entregue,15.0
+PED00967,2025-06-23,C0265,ES,Sudeste,P010,Organizador de mesa,Papelaria,2,35.91,Marketplace,Boleto,Cancelado,
+PED00968,2025-02-22,C0294,ES,Sudeste,P004,Garrafa térmica,Casa,1,71.91,Site,Boleto,Em transporte,7.0
+PED00969,2025-07-01,C0096,PE,Nordeste,P009,Suporte para monitor,Acessórios,1,125.9,Site,Cartão de crédito,Cancelado,
+PED00970,2025-03-07,C0160,RJ,Sudeste,P001,Cadeira de escritório,Móveis,1,499.9,Loja física,Boleto,Em transporte,12.0
+PED00971,2025-08-29,C0005,PR,Sul,P003,Luminária de mesa,Casa,1,129.9,Loja física,Boleto,Entregue,12.0
+PED00972,2025-01-30,C0177,PR,Sul,P011,Caderno universitário,Papelaria,1,26.14,Site,Cartão de crédito,Entregue,14.0
+PED00973,2025-02-05,C0308,RS,Sul,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Pix,Cancelado,
+PED00974,2025-11-12,C0233,PB,Nordeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Pix,Entregue,4.0
+PED00975,2025-11-24,C0320,SP,Sudeste,P004,Garrafa térmica,Casa,1,75.91,Site,Cartão de crédito,Cancelado,
+PED00976,2025-07-12,C0006,PB,Nordeste,P008,Mouse sem fio,Eletrônicos,1,85.41,Site,Pix,Entregue,12.0
+PED00977,2025-03-14,C0023,ES,Sudeste,P001,Cadeira de escritório,Móveis,1,474.9,Site,Cartão de crédito,Em transporte,12.0
+PED00978,2025-03-31,C0284,CE,Nordeste,P004,Garrafa térmica,Casa,1,79.9,Site,Cartão de crédito,Entregue,11.0
+PED00979,2025-04-01,C0195,SP,Sudeste,P004,Garrafa térmica,Casa,3,71.91,Loja física,Cartão de crédito,Entregue,5.0
+PED00980,2025-06-06,C0270,RS,Sul,P006,Teclado sem fio,Eletrônicos,1,149.9,Loja física,Pix,Entregue,6.0
+PED00981,2025-03-02,C0273,MG,Sudeste,P012,Webcam HD,Eletrônicos,1,218.41,Marketplace,Boleto,Entregue,7.0
+PED00982,2025-11-03,C0275,PB,Nordeste,P006,Teclado sem fio,Eletrônicos,1,142.41,Marketplace,Cartão de crédito,Entregue,7.0
+PED00983,2025-01-28,C0300,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,2,149.9,Marketplace,Cartão de crédito,Entregue,17.0
+PED00984,2025-08-29,C0261,MG,Sudeste,P012,Webcam HD,Eletrônicos,2,241.4,Marketplace,Boleto,Entregue,6.0
+PED00985,2025-09-13,C0270,GO,Centro-Oeste,P009,Suporte para monitor,Acessórios,1,113.91,Loja física,Pix,Entregue,12.0
+PED00986,2025-08-31,C0107,AM,Norte,P012,Webcam HD,Eletrônicos,0,229.9,Site,Cartão de crédito,Em transporte,2.0
+PED00987,2025-07-22,C0293,BA,Nordeste,P008,Mouse sem fio,Eletrônicos,1,89.9,Site,Pix,Cancelado,
+PED00988,2025-03-10,C0266,MG,Sudeste,P005,Fone Bluetooth,Eletrônicos,2,199.9,Marketplace,Cartão de crédito,Cancelado,
+PED00989,2025-08-27,C0231,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Marketplace,Pix,Cancelado,
+PED00990,2025-09-12,C0227,GO,Centro-Oeste,P007,Mochila para notebook,Acessórios,1,179.9,Site,Pix,Entregue,6.0
+PED00991,2025-07-03,C0280,MG,Sudeste,P011,Caderno universitário,Papelaria,3,24.9,Loja física,Cartão de crédito,Em transporte,17.0
+PED00992,2025-02-20,C0103,BA,Nordeste,P005,Fone Bluetooth,Eletrônicos,1,199.9,Marketplace,Cartão de crédito,Entregue,18.0
+PED00993,2025-05-09,C0386,PB,Nordeste,P011,Caderno universitário,Papelaria,1,24.9,Loja física,Boleto,Entregue,5.0
+PED00994,2025-01-05,C0208,PE,Nordeste,P009,Suporte para monitor,Acessórios,2,119.9,Loja física,Boleto,Entregue,13.0
+PED00995,2025-12-01,C0117,AM,Norte,P001,Cadeira de escritório,Móveis,1,474.9,Site,Boleto,Cancelado,
+PED00996,2025-08-31,C0370,RS,Sul,P012,Webcam HD,Eletrônicos,1,241.4,Marketplace,Pix,Em transporte,15.0
+PED00997,2025-04-07,C0231,PB,Nordeste,P002,Mesa de escritório,Móveis,1,899.9,Loja física,Cartão de crédito,Entregue,15.0
+PED00998,2025-10-23,C0415,PR,Sul,P006,Teclado sem fio,Eletrônicos,3,149.9,Loja física,Pix,Entregue,16.0
+PED00999,2025-08-03,C0167,BA,Nordeste,P006,Teclado sem fio,Eletrônicos,1,149.9,Loja física,Cartão de crédito,Em transporte,10.0
+PED01000,2025-03-13,C0196,RJ,Sudeste,P010,Organizador de mesa,Papelaria,1,39.9,Site,Pix,Em transporte,13.0
+PED00033,2025-05-03,C0162,PB,Nordeste,P012,Webcam HD,Eletrônicos,1,218.41,Site,Cartão de crédito,Entregue,15.0
+PED00847,2025-08-21,C0406,PB,Nordeste,P012,Webcam HD,Eletrônicos,2,206.91,Loja física,Cartão de crédito,Entregue,15.0
+PED00706,2025-03-27,C0383,RJ,Sudeste,P002,Mesa de escritório,Móveis,1,899.9,Loja física,Cartão de crédito,Entregue,16.0
+PED00618,2025-11-16,C0351,PA,Norte,P006,Teclado sem fio,Eletrônicos,1,134.91,Marketplace,Cartão de crédito,Entregue,7.0
+PED00501,2025-02-21,C0249,BA,Nordeste,P011,Caderno universitário,Papelaria,1,22.41,Marketplace,Pix,Entregue,11.0
+PED00028,2025-03-26,C0147,RJ,Sudeste,P007,Mochila para notebook,Acessórios,1,179.9,Marketplace,Boleto,Entregue,15.0
+PED00192,2025-01-19,C0162,PA,Norte,P002,Mesa de escritório,Móveis,1,809.91,Marketplace,Boleto,Entregue,2.0

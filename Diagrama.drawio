@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36">
+  <diagram name="Página-1" id="WlgIW27qGlltcvwcmDmQ">
+    <mxGraphModel dx="840" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-1" edge="1" parent="1" source="lu7EuQJzqqDsKf-BxTRv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ONak8zwsHY3iOyGPKnxX-3">
+          <mxGeometry relative="1" x="0.5" as="geometry">
+            <Array as="points" />
+            <mxPoint x="140" y="210" as="sourcePoint" />
+            <mxPoint x="120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-2" connectable="0" parent="ONak8zwsHY3iOyGPKnxX-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];defaultLabelBackgroundColor=gap;" value="Leitura" vertex="1">
+          <mxGeometry relative="1" x="0.6" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lu7EuQJzqqDsKf-BxTRv-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fonte de dados" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Limpeza e transformação Python + Pandas" vertex="1">
+          <mxGeometry height="100" width="160" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;Banco de dados&amp;nbsp; PostgreSQL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="85" y="417.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Análise e consultas &lt;br&gt;SQL + Python" vertex="1">
+          <mxGeometry height="80" width="160" x="80" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-13" edge="1" parent="1" source="ONak8zwsHY3iOyGPKnxX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ONak8zwsHY3iOyGPKnxX-5">
+          <mxGeometry relative="1" x="0.6667" as="geometry">
+            <mxPoint x="130" y="330" as="sourcePoint" />
+            <mxPoint x="130" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-16" edge="1" parent="1" source="ONak8zwsHY3iOyGPKnxX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ONak8zwsHY3iOyGPKnxX-9">
+          <mxGeometry relative="1" x="0.72" as="geometry">
+            <mxPoint x="120" y="450" as="sourcePoint" />
+            <mxPoint x="120" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ONak8zwsHY3iOyGPKnxX-18" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;fontColor=light-dark(#000000,#784C68);fillColor=light-dark(#FFFFFF,#4682B4);" value="" vertex="1">
+          <mxGeometry height="27.5" width="20" x="210" y="433.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
