@@ -87,6 +87,24 @@ def executar_extracao():
         ['pedido_id', 'produto_id', 'quantidade', 'preco_unitario']
     ].copy()
 
+    colunas_pedido = [
+        'data_pedido', 'cliente_id', 'uf', 'regiao',
+        'canal_venda', 'forma_pagamento', 'status_pedido',
+        'prazo_entrega_dias'
+    ]
+
+    inconsistencias = (
+        df_pedido.groupby('pedido_id')[colunas_pedido]
+        .nunique(dropna=False)
+    )
+
+    inconsistencias = inconsistencias[
+        inconsistencias.gt(1).any(axis=1)
+    ]
+
+    if not inconsistencias.empty:
+        raise ValueError("Existem pedidos com informações divergentes.")
+
     # Remover duplicadas das dimensões
     df_cliente = df_cliente.drop_duplicates()
     df_produto = df_produto.drop_duplicates()
