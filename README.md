@@ -2,39 +2,59 @@
 
 ## Sobre o projeto
 
-Este projeto tem como objetivo desenvolver um pipeline de dados utilizando Python e SQL, simulando o processamento de vendas de uma empresa brasileira fictícia.
+Projeto de Engenharia de Dados desenvolvido com Python, Pandas e PostgreSQL, simulando o processamento de vendas de uma empresa brasileira fictícia.
 
-A proposta é explorar etapas de Engenharia de Dados, como extração, transformação e carregamento de dados (ETL), e utilizar os dados processados para realizar análises e extrair indicadores de negócio.
+O objetivo é desenvolver um pipeline ETL, aplicando técnicas de limpeza, transformação, validação e carga incremental de dados.
 
-## Objetivos
+## Tecnologias
 
-- Praticar manipulação e limpeza de dados com Python e Pandas.
-- Identificar e tratar problemas de qualidade dos dados.
-- Armazenar e consultar dados utilizando SQL.
-- Construir uma arquitetura simples de processamento de dados.
-- Realizar análises exploratórias e comunicar resultados.
-
-## Arquitetura proposta
-
-CSV → Python/Pandas → PostgreSQL → SQL e análise de dados
-
-O diagrama detalhado da arquitetura será disponibilizado neste repositório.
-
-## Tecnologias previstas
-
-- Python
-- Pandas
-- SQL
-- PostgreSQL
+- Python e Pandas
+- SQL e PostgreSQL
+- SQLAlchemy
 - Git e GitHub
+- DBeaver
 - diagrams.net
 
-## Dados
+## Arquitetura
 
-O projeto utilizará uma base sintética de vendas, criada para fins educacionais. Os registros não representam transações reais de uma empresa.
+CSV → Python/Pandas → PostgreSQL
+
+O projeto foi dividido em três módulos:
+
+- `extract.py`: extração, limpeza e transformação dos dados.
+- `database.py`: conexão e carga no PostgreSQL.
+- `main.py`: execução do pipeline.
+
+## Resultados
+
+- 1.007 registros originais.
+- 1.000 registros após o tratamento.
+- 7 duplicatas removidas.
+- 384 clientes.
+- 12 produtos.
+- 1.000 pedidos.
+- 1.000 itens de pedidos.
+
+A carga utiliza UPSERT para inserir novos registros e atualizar registros existentes, evitando duplicações.
+
+## Como executar
+
+1. Instale as dependências:
+
+```bash
+pip install pandas sqlalchemy psycopg2-binary python-dotenv
+```
+
+2. Configure as credenciais do PostgreSQL no arquivo `.env`.
+
+3. Execute o script `Criação_Tabelas.sql` no banco de dados.
+
+4. Execute o pipeline:
+
+```bash
+python -m src.main
+```
 
 ## Status
 
-Em desenvolvimento.
-
-As etapas de exploração, transformação, armazenamento e análise serão implementadas progressivamente.
+**ETL implementado e validado.**
